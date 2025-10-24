@@ -9,7 +9,7 @@ Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dir
 
 ## 🛡️ Ingin Bergabung atau Menggunakan Bot Kami?
 
-Bot ini adalah **Bot Private** yang dikembangkan khusus untuk Guild kami.
+Bot ini adalah **Bot Private** yang dikembangkan khusus untuk Guild kami (**Mabar**).
 
 Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan Publik server Discord kami:
 
