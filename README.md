@@ -50,17 +50,17 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/adventure`** | Petualangan RPG dengan *reward* dan risiko. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_67.png?raw=true" width="250" /> |
-| **`/fishing`** | Mancing ikan. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_68.png?raw=true" width="250" /> |
+| **`/bounty`** | Cek daftar *bounty* aktif. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_77.png?raw=true" width="250" /> |
+| **`/setbounty`** | Pasang *bounty* untuk user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_78.png?raw=true" width="250" /> |
+| **`/adventure`** | Petualangan Yellow,Red,Black Zone dengan *reward* dan risiko. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_67.png?raw=true" width="250" /> |
+| **`/fishing`** | Mancing ikan Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_68.png?raw=true" width="250" /> |
 | **`/quest`** | Quest harian untuk *reward*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_69.png?raw=true" width="250" /> |
-| **`/trivia`** | Mainkan trivia bertema Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_70.png?raw=true" width="250" /> |
+| **`/trivia`** | Mainkan 500 pertanyaan trivia bertema Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_70.png?raw=true" width="250" /> |
 | **`/gamble`** | Slot machine mini-game. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_71.png?raw=true" width="250" /> |
 | **`/coinflip`** | Tebak *head/tail* untuk taruhan cepat. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_72.png?raw=true" width="250" /> |
 | **`/lottery`** | Undian berhadiah saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_73.png?raw=true" width="250" /> |
-| **`/rob`** | Merampok user lain (berisiko). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_74.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_75.png?raw=true" width="250" /> |
+| **`/rob`** | Merampok user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_74.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_75.png?raw=true" width="250" /> |
 | **`/stats`** | Statistik permainan (Minigame) Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_76.png?raw=true" width="250" /> |
-| **`/bounty`** | Cek daftar *bounty* aktif. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_77.png?raw=true" width="250" /> |
-| **`/setbounty`** | Pasang *bounty* untuk user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_78.png?raw=true" width="250" /> |
 
 ### ℹ️ Kategori: FITUR KEREN
 
