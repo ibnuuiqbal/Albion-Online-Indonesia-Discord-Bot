@@ -92,18 +92,18 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
 | **`/jadwal`** | Buat/lihat jadwal mabar. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_102.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_103.png?raw=true" width="250" />|
-| **`/canceljadwal`** | Batalkan jadwal mabar. | <img src="[URL_FOTO_ANDA_CANCELJADWAL]" width="300" /> |
-| **`/done_manual`** | Tandai konten sebagai selesai secara manual. | <img src="[URL_FOTO_ANDA_DONE_MANUAL]" width="300" /> |
-| **`/setcaller`** | Tentukan Caller utama untuk konten. | <img src="[URL_FOTO_ANDA_SETCALLER]" width="300" /> |
-| **`/setpoint`** | Tambahkan atau kurangi *point* kontribusi user. | <img src="[URL_FOTO_ANDA_SETPOINT]" width="300" /> |
-| **`/hideout-delete`**| Hapus rute atau lokasi hideout. | <img src="[URL_FOTO_ANDA_HIDEOUT-DELETE]" width="300" /> |
-| **`/addbalance`** | Tambah saldo user (Moderasi Saldo). | <img src="[URL_FOTO_ANDA_ADDBALANCE]" width="300" /> |
-| **`/removebalance`**| Kurangi saldo user (Moderasi Saldo). | <img src="[URL_FOTO_ANDA_REMOVEBALANCE]" width="300" /> |
-| **`/tax`** | Cek atau atur persentase pajak transaksi guild. | <img src="[URL_FOTO_ANDA_TAX]" width="300" /> |
-| **`/cleanupbounty`**| Bersihkan daftar *bounty* yang kadaluarsa. | <img src="[URL_FOTO_ANDA_CLEANUPBOUNTY]" width="300" /> |
-| **`/claimbounty`** | Klaim *bounty* dari user yang sudah dikalahkan. | <img src="[URL_FOTO_ANDA_CLAIMBOUNTY]" width="300" /> |
-| **`/dbfix`** | Perbaiki atau optimasi database. | <img src="[URL_FOTO_ANDA_DBFIX]" width="300" /> |
-| **`/chat`** | Chat dengan bot AI. | <img src="[URL_FOTO_ANDA_CHAT]" width="300" /> |
+| **`/canceljadwal`** | Batalkan jadwal mabar. | |
+| **`/done_manual`** | Tandai konten sebagai selesai secara manual. | |
+| **`/setcaller`** | Tentukan Caller utama untuk konten. | |
+| **`/setpoint`** | Tambahkan atau kurangi *point* kontribusi user. | |
+| **`/hideout-delete`**| Hapus rute atau lokasi hideout. | |
+| **`/addbalance`** | Tambah saldo user (Moderasi Saldo). | |
+| **`/removebalance`**| Kurangi saldo user (Moderasi Saldo). | |
+| **`/tax`** | Cek atau atur persentase pajak transaksi guild. | |
+| **`/cleanupbounty`**| Bersihkan daftar *bounty* yang kadaluarsa. | |
+| **`/claimbounty`** | Klaim *bounty* dari user yang sudah dikalahkan. | |
+| **`/dbfix`** | Perbaiki atau optimasi database. | |
+| **`/chat`** | Chat dengan bot AI. | |
 
 ---
 
