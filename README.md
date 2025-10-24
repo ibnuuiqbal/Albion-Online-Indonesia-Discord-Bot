@@ -35,16 +35,16 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/daily`** | Klaim **Bonus Silver Harian** Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_56.png?raw=true" width="150" /> |
-| **`/balance`** | Cek saldo keuangan Anda (**Cash** dan **Bank**). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_57.png?raw=true" width="150" /> |
-| **`/deposit`** | Pindahkan saldo **Cash** ke **Bank** pribadi (simpanan). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_58.png?raw=true" width="150" /> |
-| **`/withdraw`** | Tarik saldo dari **Bank** pribadi Anda ke **Cash**. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_59.png?raw=true" width="150" /> |
-| **`/transfer`** | Kirim saldo ke anggota *user* Discord lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_60.png?raw=true" width="150" />|
-| **`/donasi`** | **Donasikan** saldo *cash* pribadi Anda ke **Bank Guild**. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_65.png?raw=true" width="150" /> |
-| **`/guildbalance`** | Lihat saldo total **Bank Guild** yang tersedia. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_66.png?raw=true" width="150" /> |
-| **`/invest`** | Investasikan sejumlah silver untuk mendapatkan **Bunga** setelah 24 jam. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_62.png?raw=true" width="150" /> |
-| **`/claiminvest`** | Klaim hasil investasi beserta **Bunga** yang telah matang. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_63.png?raw=true" width="150" /> |
-| **`/history`** | Lihat riwayat lengkap **Aktivitas Transaksi**, transfer, dan donasi saldo Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_64.png?raw=true" width="150" /> |
+| **`/daily`** | Klaim **Bonus Silver Harian** Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_56.png?raw=true" width="150" /> |
+| **`/balance`** | Cek saldo keuangan Anda (**Cash** dan **Bank**). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_57.png?raw=true" width="150" /> |
+| **`/deposit`** | Pindahkan saldo **Cash** ke **Bank** pribadi (simpanan). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_58.png?raw=true" width="150" /> |
+| **`/withdraw`** | Tarik saldo dari **Bank** pribadi Anda ke **Cash**. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_59.png?raw=true" width="150" /> |
+| **`/transfer`** | Kirim saldo ke anggota *user* Discord lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_60.png?raw=true" width="150" />|
+| **`/donasi`** | **Donasikan** saldo *cash* pribadi Anda ke **Bank Guild**. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_65.png?raw=true" width="150" /> |
+| **`/guildbalance`** | Lihat saldo total **Bank Guild** yang tersedia. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_66.png?raw=true" width="150" /> |
+| **`/invest`** | Investasikan sejumlah silver untuk mendapatkan **Bunga** setelah 24 jam. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_62.png?raw=true" width="150" /> |
+| **`/claiminvest`** | Klaim hasil investasi beserta **Bunga** yang telah matang. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_63.png?raw=true" width="150" /> |
+| **`/history`** | Lihat riwayat lengkap **Aktivitas Transaksi**, transfer, dan donasi saldo Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_64.png?raw=true" width="150" /> |
 
 ### 🎯 Kategori: MINIGAME 
 
