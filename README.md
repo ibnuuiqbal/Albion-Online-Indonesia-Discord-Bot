@@ -25,11 +25,11 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/konten`** | Command utama untuk open konten party. Mencakup Sistem Pendaftaran Dinamis, Reward System, Auto Role, Webhook log, serta Notifikasi Caller dan Status Selesai Otomatis (Auto Done/Expired). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_42.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_41.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_50.png?raw=true" width="150" />|
-| **`/rankmabar`** | Lihat ranking dan statistik partisipasi party user. | <img src="[URL_FOTO_ANDA_RANKMABAR]" width="300" /> |
-| **`/splitloot`** | Hitung pembagian *loot* party. | <img src="[URL_FOTO_ANDA_SPLITLOOT]" width="300" /> |
-| **`/regear`** | Request Regear item melalui Modal Interaktif. | <img src="[URL_FOTO_ANDA_REGEAR]" width="300" /> |
-| **`/hideout`** | Update rute hideout atau lokasi penting guild. | <img src="[URL_FOTO_ANDA_HIDEOUT]" width="300" /> |
+| **`/konten`** | Command utama untuk open konten party. Mencakup Sistem Pendaftaran Dinamis, Reward System, Auto Role, Webhook log, serta Notifikasi Party dan Status Selesai Otomatis (Auto Done/Expired), dan lain-lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_42.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_41.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_50.png?raw=true" width="150" />|
+| **`/rankmabar`** | Lihat ranking Party, Caller, Bank Silver,Notifikasi Auto Role Reward. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_45.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_46.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_47.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_48.png?raw=true" width="150" />|
+| **`/splitloot`** | Hitung pembagian otomatis *loot* party. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_51.png?raw=true" width="150" />|
+| **`/regear`** | Request Regear item melalui Modal Interaktif & *Otomatis transfer silver* , Otomatis Notification DM & Ping. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_45.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_53.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_52.png?raw=true" width="150" /> |
+| **`/hideout`** | Update rute hideout atau lokasi penting guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="150" />|
 
 ### 💰 Kategori: FINANSIAL & EKONOMI
 
