@@ -1,4 +1,4 @@
-# ⚔️ Albion Online Indonesia Discord Bot - made with Love Albion Community ❤️
+# ⚔️ Albion Online Indonesia Discord Bot 
 
 [![Status Bot](https://img.shields.io/badge/Status-Aktif%20di%20Discord-4E9A06?style=for-the-badge&logo=discord)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
 [![Lisensi](https://img.shields.io/badge/License-Proprietary%20(Private)-red?style=for-the-badge)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
@@ -66,26 +66,26 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/albionprofile`** | Cek *profile* karakter Albion. | <img src="[URL_FOTO_ANDA_ALBIONPROFILE]" width="300" /> |
-| **`/combatfame`** | Fame Kalkulator. | <img src="[URL_FOTO_ANDA_COMBATFAME]" width="300" /> |
-| **`/price`** | Cek harga item Albion (BETA). | <img src="[URL_FOTO_ANDA_PRICE]" width="300" /> |
-| **`/gold`** | Cek harga Gold Albion saat ini. | <img src="[URL_FOTO_ANDA_GOLD]" width="300" /> |
-| **`/premium`** | Cek harga Premium Albion. | <img src="[URL_FOTO_ANDA_PREMIUM]" width="300" /> |
-| **`/resource`** | Informasi Bonus Kota *resource*. | <img src="[URL_FOTO_ANDA_RESOURCE]" width="300" /> |
-| **`/build`** | Random Build Albion. | <img src="[URL_FOTO_ANDA_BUILD]" width="300" /> |
-| **`/rute`** | Cek rute farming/ganking yang disarankan. | <img src="[URL_FOTO_ANDA_RUTE]" width="300" /> |
-| **`/scanner`** | Scan zona/map untuk melihat aktivitas. | <img src="[URL_FOTO_ANDA_SCANNER]" width="300" /> |
-| **`/scoutreport`** | Kirim laporan *scout*. | <img src="[URL_FOTO_ANDA_SCOUTREPORT]" width="300" /> |
-| **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="[URL_FOTO_ANDA_USERINFO]" width="300" /> |
-| **`/profile`** | Info Profile akun kamu. | <img src="[URL_FOTO_ANDA_PROFILE]" width="300" /> |
-| **`/banditstatus`** | Faksi Bandit. | <img src="[URL_FOTO_ANDA_BANDITSTATUS]" width="300" /> |
-| **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="[URL_FOTO_ANDA_RANDOMFACT]" width="300" /> |
-| **`/timezone`** | Check UTC. | <img src="[URL_FOTO_ANDA_TIMEZONE]" width="300" /> |
-| **`/roll`** | Roll dadu 1–100. | <img src="[URL_FOTO_ANDA_ROLL]" width="300" /> |
-| **`/saran`** | Kasih saran fitur bot. | <img src="[URL_FOTO_ANDA_SARAN]" width="300" /> |
-| **`/register`** | Daftarkan nickname Albion Anda. | <img src="[URL_FOTO_ANDA_REGISTER]" width="300" /> |
-| **`/serverinfo`** | Informasi server Discord. | <img src="[URL_FOTO_ANDA_SERVERINFO]" width="300" /> |
-| **`/ping`** | Cek latensi bot. | <img src="[URL_FOTO_ANDA_PING]" width="300" /> |
+| **`/register`** | Daftarkan nickname Albion + Auto Role Register , Webhook notifikasi. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_96.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_100.png?raw=true" width="250" />|
+| **`/albionprofile`** | Cek *profile* karakter Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_79.png?raw=true" width="250" /> |
+| **`/combatfame`** | Fame Kalkulator. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_80.png?raw=true" width="250" /> |
+| **`/price`** | Cek harga item Albion (BETA). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_81.png?raw=true" width="250" /> |
+| **`/gold`** | Cek harga Gold Albion saat ini. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_82.png?raw=true" width="250" /> |
+| **`/premium`** | Cek harga Premium Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_83.png?raw=true" width="250" /> |
+| **`/resource`** | Informasi Bonus Kota *resource*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_84.png?raw=true" width="250" /> |
+| **`/build`** | Random Build Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_85.png?raw=true" width="250" /> |
+| **`/rute`** | Cek rute farming/ganking yang disarankan. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_87.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_86.png?raw=true" width="250" /> |
+| **`/scanner`** | Scan zona/map untuk melihat aktivitas. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_88.png?raw=true" width="250" /> |
+| **`/scoutreport`** | Kirim laporan *scout*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_89.png?raw=true" width="250" /> |
+| **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_90.png?raw=true" width="250" /> |
+| **`/profile`** | Info Profile akun kamu. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_91.png?raw=true" width="250" /> |
+| **`/banditstatus`** | Faksi Bandit. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_92.png?raw=true" width="250" /> |
+| **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_93.png?raw=true" width="250" /> |
+| **`/timezone`** | Check UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="250" /> |
+| **`/roll`** | Roll dadu 1–100. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_95.png?raw=true" width="250" /> |
+| **`/saran`** | Kasih saran fitur bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_97.png?raw=true" width="250" /> |
+| **`/serverinfo`** | Informasi server Discord. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_98.png?raw=true" width="250" /> |
+| **`/ping`** | Cek latensi bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_99.png?raw=true" width="250" /> |
 
 ### ⚙️ Kategori: MODERASI (Staff/Officer Only)
 
