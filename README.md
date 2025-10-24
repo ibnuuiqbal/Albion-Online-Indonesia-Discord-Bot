@@ -1,7 +1,7 @@
 # ⚔️ Albion Online Indonesia Discord Bot - made with Love Albion Community ❤️
 
-![Status Bot](https://img.imgshields.io/badge/Status-Toko%20Dukun%20status-4E9A06?style=for-the-badge&logo=discord)
-[![Lisensi](https://img.shields.io/badge/License-Proprietary%20(Private)-red?style=for-the-badge)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
+[![Status Bot](https://img.imgshields.io/badge/Status-Toko%20Dukun%20status-4E9A06?style=for-the-badge&logo=discord)
+[![Lisensi](https://img.shields.io/badge/License-Proprietary%20(Private)-red?style=for-the-badge)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
 
 Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dirancang khusus untuk komunitas dan Guild Albion Online berbahasa Indonesia. Bot ini fokus pada otomasisasi manajemen aktivitas **MABAR**, pelacakan kontribusi, dan pengelolaan ekonomi virtual guild yang terintegrasi, didukung oleh **Discord.js 18v** dan **Mongoose (MongoDB)** untuk stabilitas data.
 
