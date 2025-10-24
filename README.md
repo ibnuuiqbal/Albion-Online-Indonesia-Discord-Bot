@@ -26,25 +26,25 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
 | **`/konten`** | Command utama untuk open konten party. Mencakup Sistem Pendaftaran Dinamis, Reward System, Auto Role, Webhook log, serta Notifikasi Party dan Status Selesai Otomatis (Auto Done/Expired), dan lain-lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_42.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_41.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_50.png?raw=true" width="150" />|
-| **`/rankmabar`** | Lihat ranking Party, Caller, Bank Silver,Notifikasi Auto Role Reward. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_45.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_46.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_47.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_48.png?raw=true" width="150" />|
+| **`/rankmabar`** | Lihat ranking Party, Caller, Bank Silver, Hadiah, Notifikasi Auto Role Reward. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_45.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_46.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_47.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_48.png?raw=true" width="150" />|
 | **`/splitloot`** | Hitung pembagian otomatis *loot* party. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_51.png?raw=true" width="150" />|
-| **`/regear`** | Request Regear item melalui Modal Interaktif & *Otomatis transfer silver* , Otomatis Notification DM & Ping. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_53.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_52.png?raw=true" width="150" /> |
-| **`/hideout`** | Update rute hideout atau lokasi penting guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="150" />|
+| **`/regear`** | Request Regear item melalui Modal Interaktif & *Otomatis transfer silver dari guild bank* , Otomatis Notification DM & Ping. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_53.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_52.png?raw=true" width="150" /> |
+| **`/hideout`** | Update rute hideout atau lokasi penting guild otomatis. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="150" />|
 
 ### 💰 Kategori: FINANSIAL & EKONOMI
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/daily`** | Ambil bonus silver harian. | <img src="[URL_FOTO_ANDA_DAILY]" width="300" /> |
-| **`/balance`** | Cek saldo *cash* dan *bank* virtual Anda. | <img src="[URL_FOTO_ANDA_BALANCE]" width="300" /> |
-| **`/deposit`** | Deposit *cash* ke *bank* pribadi. | <img src="[URL_FOTO_ANDA_DEPOSIT]" width="300" /> |
-| **`/withdraw`** | Tarik saldo dari *bank* (ada pajak). | <img src="[URL_FOTO_ANDA_WITHDRAW]" width="300" /> |
-| **`/transfer`** | Transfer saldo ke user lain. | <img src="[URL_FOTO_ANDA_TRANSFER]" width="300" /> |
-| **`/invest`** | Investasikan silver untuk bunga (24 jam). | <img src="[URL_FOTO_ANDA_INVEST]" width="300" /> |
-| **`/claiminvest`** | Klaim hasil investasi Anda. | <img src="[URL_FOTO_ANDA_CLAIMINVEST]" width="300" /> |
-| **`/history`** | Riwayat transfer dan donasi saldo. | <img src="[URL_FOTO_ANDA_HISTORY]" width="300" /> |
-| **`/donasi`** | Donasikan *cash* ke Bank Guild. | <img src="[URL_FOTO_ANDA_DONASI]" width="300" /> |
-| **`/guildbalance`** | Lihat saldo Bank Guild (khusus Officer). | <img src="[URL_FOTO_ANDA_GUILDBALANCE]" width="300" /> |
+| **`/daily`** | Ambil bonus silver harian. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_56.png?raw=true" width="150" /> |
+| **`/balance`** | Cek saldo *cash* dan *bank* virtual Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_57.png?raw=true" width="150" /> |
+| **`/deposit`** | Deposit *cash* ke *bank* pribadi. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_58.png?raw=true" width="150" /> |
+| **`/withdraw`** | Tarik saldo dari *bank* (ada pajak). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_59.png?raw=true" width="150" /> |
+| **`/transfer`** | Transfer saldo ke user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_60.png?raw=true" width="150" />|
+| **`/invest`** | Investasikan silver untuk bunga (24 jam). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_61.png?raw=true" width="150" /> |
+| **`/claiminvest`** | Klaim hasil investasi Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_62.png?raw=true" width="150" /> |
+| **`/history`** | Riwayat transfer dan donasi saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_63.png?raw=true" width="150" /> |
+| **`/donasi`** | Donasikan *cash* ke Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_64.png?raw=true" width="150" /> |
+| **`/guildbalance`** | Lihat saldo Bank Guild (khusus Officer). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_65.png?raw=true" width="150" /> |
 
 ### 🎯 Kategori: MINIGAME & HIBURAN
 
