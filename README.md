@@ -1,4 +1,4 @@
-# ⚔️ Albion Online Indonesia Discord Bot 
+# 🇮🇩 Albion Online Discord Bot (MABAR) - Guild Management System
 
 [![Status Bot](https://img.shields.io/badge/Status-Aktif%20di%20Discord-4E9A06?style=for-the-badge&logo=discord)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
 [![Lisensi](https://img.shields.io/badge/License-Proprietary%20(Private)-red?style=for-the-badge)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
