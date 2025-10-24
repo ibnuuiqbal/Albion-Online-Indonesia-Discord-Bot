@@ -31,7 +31,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/regear`** | Request Regear item melalui Modal Interaktif & *Otomatis transfer silver dari guild bank* , Otomatis Notification DM & Ping. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_53.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_52.png?raw=true" width="150" /> |
 | **`/hideout`** | Update rute hideout atau lokasi penting guild otomatis. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="150" />|
 
-### 💰 Kategori: FINANSIAL & EKONOMI
+### 💰 Kategori: FINANSIAL GUILD
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/donasi`** | Donasikan *cash* ke Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_64.png?raw=true" width="150" /> |
 | **`/guildbalance`** | Lihat saldo Bank Guild (khusus Officer). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_65.png?raw=true" width="150" /> |
 
-### 🎯 Kategori: MINIGAME & HIBURAN
+### 🎯 Kategori: MINIGAME 
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/bounty`** | Cek daftar *bounty* aktif. | <img src="[URL_FOTO_ANDA_BOUNTY]" width="300" /> |
 | **`/setbounty`** | Pasang *bounty* untuk user lain. | <img src="[URL_FOTO_ANDA_SETBOUNTY]" width="300" /> |
 
-### ℹ️ Kategori: INFORMASI ALBION & BOT
+### ℹ️ Kategori: FITUR KEREN
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
@@ -107,4 +107,4 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 ---
 
-> **Dibuat dengan ❤️ oleh [Nama Anda/Tim Anda]** | **Bot Mabar Assistant**
+> **Dibuat dengan ❤️ oleh Ibnuuiqbal** | **Bot Mabar Assistant**
