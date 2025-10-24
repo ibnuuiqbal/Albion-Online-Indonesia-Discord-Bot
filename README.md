@@ -29,7 +29,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/rankmabar`** | Lihat ranking Party, Caller, Bank Silver, Hadiah, Notifikasi Auto Role Reward. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_45.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_46.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_47.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_48.png?raw=true" width="150" />|
 | **`/splitloot`** | Hitung pembagian otomatis *loot* party. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_51.png?raw=true" width="150" />|
 | **`/regear`** | Request Regear item melalui Modal Interaktif & *Otomatis transfer silver dari guild bank* , Otomatis Notification DM & Ping. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_53.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_52.png?raw=true" width="150" /> |
-| **`/hideout`** | Update rute hideout atau lokasi penting guild otomatis. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="150" />|
+| **`/hideout`** | Update rute hideout atau lokasi penting guild 24jam otomatis. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="150" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="150" />|
 
 ### 💰 Kategori: FINANSIAL GUILD
 
