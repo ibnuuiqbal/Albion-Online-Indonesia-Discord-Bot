@@ -67,8 +67,8 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
 | **`/register`** | Daftarkan nickname Albion + Auto Role Register , Webhook notifikasi. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_96.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_100.png?raw=true" width="250" />|
-| **`/albionprofile`** | Cek *profile* karakter Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_79.png?raw=true" width="250" /> |
-| **`/combatfame`** | Fame Kalkulator. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_80.png?raw=true" width="250" /> |
+| **`/albionprofile`** | Cek *profile* detail karakter Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_79.png?raw=true" width="250" /> |
+| **`/combatfame`** | Fame Kalkulator semua senjata berdasarkan level. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_80.png?raw=true" width="250" /> |
 | **`/price`** | Cek harga item Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_81.png?raw=true" width="250" /> |
 | **`/gold`** | Cek harga Gold Albion saat ini. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_82.png?raw=true" width="250" /> |
 | **`/premium`** | Cek harga Premium Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_83.png?raw=true" width="250" /> |
@@ -79,9 +79,9 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/scoutreport`** | Kirim laporan *scout*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_89.png?raw=true" width="250" /> |
 | **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_90.png?raw=true" width="250" /> |
 | **`/profile`** | Info Profile akun kamu. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_91.png?raw=true" width="250" /> |
-| **`/banditstatus`** | Faksi Bandit. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_92.png?raw=true" width="250" /> |
+| **`/banditstatus`** | Info Bandit Event / Faction Warfare . | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_92.png?raw=true" width="250" /> |
 | **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_93.png?raw=true" width="250" /> |
-| **`/timezone`** | Check UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="250" /> |
+| **`/timezone`** | Check WIB ke UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="250" /> |
 | **`/roll`** | Roll dadu 1–100. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_95.png?raw=true" width="250" /> |
 | **`/saran`** | Kasih saran untuk bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_97.png?raw=true" width="250" /> |
 | **`/serverinfo`** | Informasi server Discord. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_98.png?raw=true" width="250" /> |
