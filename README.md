@@ -110,4 +110,5 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 ---
 
 > **Dibuat dengan ❤️ oleh Ibnuuiqbal** | **Bot Mabar Assistant**
+>
 > 💡 **Terinspirasi dari:** *Temen Assistance oleh pxndameong and Freezer Cool*
