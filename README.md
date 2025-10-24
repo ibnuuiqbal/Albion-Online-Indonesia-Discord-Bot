@@ -35,7 +35,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/daily`** | Klaim **Bonus Silver Harian** Anda ke saldo **Cash** pribadi. Fitur ini dirancang untuk mendorong aktivitas member dan membantu modal awal harian. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_56.png?raw=true" width="250" /> |
+| **`/daily`** | Klaim **Bonus Silver Harian** Anda **dari guild** ke saldo **Cash** pribadi. Fitur ini dirancang untuk mendorong aktivitas member dan membantu modal awal harian. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_56.png?raw=true" width="250" /> |
 | **`/balance`** | Cek saldo keuangan Anda secara *real-time*, memisahkan saldo **Cash** (siap pakai) dan saldo **Bank** (simpanan pribadi/tabungan). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_57.png?raw=true" width="250" /> |
 | **`/deposit`** | Pindahkan saldo **Cash** (saldo utama) Anda ke **Bank** pribadi (simpanan). Fitur ini membantu anggota menyimpan silver dengan aman dan terpisah dari transaksi harian. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_58.png?raw=true" width="250" /> |
 | **`/withdraw`** | Tarik sejumlah silver dari saldo **Bank** pribadi Anda ke saldo **Cash** Anda. Memungkinkan penarikan dana simpanan dengan mudah saat dibutuhkan. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_59.png?raw=true" width="250" /> |
