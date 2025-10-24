@@ -13,7 +13,7 @@ Bot ini adalah **Bot Privat** yang dikembangkan khusus untuk Guild kami.
 
 Kami menyambut pemain AOI lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan server Discord kami:
 
-[➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](**[Link Undangan Server Discord Anda di SINI]**)
+[➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](https://discord.gg/h7UcseapeH)
 
 ---
 
@@ -25,7 +25,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/konten`** | Command utama untuk *open* konten party. | <img src="[URL_FOTO_ANDA_KONTEN]" width="300" /> |
+| **`/konten`** | Command utama untuk *open* konten party. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_42.png?raw=true" width="300" /> |
 | **`/rankmabar`** | Lihat ranking dan statistik partisipasi party user. | <img src="[URL_FOTO_ANDA_RANKMABAR]" width="300" /> |
 | **`/splitloot`** | Hitung pembagian *loot* party. | <img src="[URL_FOTO_ANDA_SPLITLOOT]" width="300" /> |
 | **`/regear`** | Request Regear item melalui Modal Interaktif. | <img src="[URL_FOTO_ANDA_REGEAR]" width="300" /> |
