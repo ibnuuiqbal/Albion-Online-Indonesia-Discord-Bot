@@ -25,11 +25,11 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/konten`** | **Sistem Manajemen Party Otomatis.** Membuka *event* party dengan **Pendaftaran Interaktif**, **Auto Role** peserta, **Reward System** terintegrasi, **Webhook Log** detail, dan **Status Otomatis** (*Auto Done/Expired*). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_42.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_41.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_50.png?raw=true" width="250" />|
-| **`/rankmabar`** | **Papan Peringkat Mabar Guild.** Lihat *ranking* partisipasi Party, Caller, total **Bank Silver**, serta rekap **Hadiah** dan **Auto Role Reward** yang dibagikan. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_45.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_46.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_47.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_48.png?raw=true" width="250" />|
-| **`/splitloot`** | **Kalkulator Pembagian *Loot* Otomatis.** Hitung dan distribusikan pembagian *loot* secara adil dan cepat untuk seluruh anggota party. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_51.png?raw=true" width="250" />|
-| **`/regear`** | **Sistem Klaim Regear Transparan.** Pengajuan *regear* melalui **Modal Interaktif** yang memicu **Transfer Silver Otomatis** dari bank guild ke saldo kas pengguna, dilengkapi **Notifikasi DM** ke pemohon. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_53.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_52.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_101.png?raw=true" width="250" /> |
-| **`/hideout`** | **Pembaruan Lokasi Krusial.** Memberikan *update* rute, lokasi *hideout* atau *territory* penting guild secara otomatis, **diperbarui 24 jam** sekali. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="250" />|
+| **`/konten`** | **Sistem Manajemen Party Otomatis.** Membuka *event* party dengan **Pendaftaran Interaktif**, **Auto Role** peserta, **Reward System** terintegrasi, **Webhook Log** detail, dan **Status Otomatis** (*Auto Done/Expired*). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_42.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_41.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_50.png?raw=true" width="300" />|
+| **`/rankmabar`** | **Papan Peringkat Mabar Guild.** Lihat *ranking* partisipasi Party, Caller, total **Bank Silver**, serta rekap **Hadiah** dan **Auto Role Reward** yang dibagikan. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_45.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_46.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_47.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_48.png?raw=true" width="300" />|
+| **`/splitloot`** | **Kalkulator Pembagian *Loot* Otomatis.** Hitung dan distribusikan pembagian *loot* secara adil dan cepat untuk seluruh anggota party. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_51.png?raw=true" width="300" />|
+| **`/regear`** | **Sistem Klaim Regear Transparan.** Pengajuan *regear* melalui **Modal Interaktif** yang memicu **Transfer Silver Otomatis** dari bank guild ke saldo kas pengguna, dilengkapi **Notifikasi DM** ke pemohon. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_53.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_52.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_101.png?raw=true" width="300" /> |
+| **`/hideout`** | **Pembaruan Lokasi Krusial.** Memberikan *update* rute, lokasi *hideout* atau *territory* penting guild secara otomatis, **diperbarui 24 jam** sekali. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_54.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_55.png?raw=true" width="300" />|
 
 ### 💰 Kategori: MANAJEMEN KEUANGAN & BANK GUILD
 
@@ -49,41 +49,41 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/bounty`** | Cek daftar *bounty* aktif. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_77.png?raw=true" width="250" /> |
-| **`/setbounty`** | Pasang *bounty* untuk user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_78.png?raw=true" width="250" /> |
-| **`/adventure`** | Petualangan Yellow,Red,Black Zone dengan *reward* dan risiko. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_67.png?raw=true" width="250" /> |
-| **`/fishing`** | Mancing ikan Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_68.png?raw=true" width="250" /> |
-| **`/quest`** | Quest harian untuk *reward*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_69.png?raw=true" width="250" /> |
-| **`/trivia`** | Mainkan 500 pertanyaan trivia bertema Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_70.png?raw=true" width="250" /> |
-| **`/gamble`** | Slot machine mini-game. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_71.png?raw=true" width="250" /> |
-| **`/coinflip`** | Tebak *head/tail* untuk taruhan cepat. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_72.png?raw=true" width="250" /> |
-| **`/lottery`** | Undian berhadiah saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_73.png?raw=true" width="250" /> |
-| **`/rob`** | Merampok user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_74.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_75.png?raw=true" width="250" /> |
-| **`/stats`** | Statistik permainan (Minigame) Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_76.png?raw=true" width="250" /> |
+| **`/bounty`** | Cek daftar *bounty* aktif. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_77.png?raw=true" width="300" /> |
+| **`/setbounty`** | Pasang *bounty* untuk user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_78.png?raw=true" width="300" /> |
+| **`/adventure`** | Petualangan Yellow,Red,Black Zone dengan *reward* dan risiko. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_67.png?raw=true" width="300" /> |
+| **`/fishing`** | Mancing ikan Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_68.png?raw=true" width="300" /> |
+| **`/quest`** | Quest harian untuk *reward*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_69.png?raw=true" width="300" /> |
+| **`/trivia`** | Mainkan 500 pertanyaan trivia bertema Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_70.png?raw=true" width="300" /> |
+| **`/gamble`** | Slot machine mini-game. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_71.png?raw=true" width="300" /> |
+| **`/coinflip`** | Tebak *head/tail* untuk taruhan cepat. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_72.png?raw=true" width="300" /> |
+| **`/lottery`** | Undian berhadiah saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_73.png?raw=true" width="300" /> |
+| **`/rob`** | Merampok user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_74.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_75.png?raw=true" width="300" /> |
+| **`/stats`** | Statistik permainan (Minigame) Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_76.png?raw=true" width="300" /> |
 
 ### ℹ️ Kategori: FITUR KEREN
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/register`** | Daftarkan nickname Albion + Auto Role Register , Webhook notifikasi. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_96.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_100.png?raw=true" width="250" />|
-| **`/albionprofile`** | Cek *profile* detail karakter Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_79.png?raw=true" width="250" /> |
-| **`/combatfame`** | Fame Kalkulator semua senjata berdasarkan level. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_80.png?raw=true" width="250" /> |
-| **`/price`** | Cek harga item Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_81.png?raw=true" width="250" /> |
-| **`/gold`** | Cek harga Gold Albion saat ini. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_82.png?raw=true" width="250" /> |
-| **`/premium`** | Cek harga Premium Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_83.png?raw=true" width="250" /> |
-| **`/resource`** | Informasi Bonus Kota *resource*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_84.png?raw=true" width="250" /> |
-| **`/build`** | Random Build Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_85.png?raw=true" width="250" /> |
-| **`/rute`** | Cek rute ke portal lain / Rest Area. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_87.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_86.png?raw=true" width="250" /> |
-| **`/scanner`** | Scan zona untuk melihat aktivitas. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_88.png?raw=true" width="250" /> |
-| **`/scoutreport`** | Kirim laporan *scout*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_89.png?raw=true" width="250" /> |
-| **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_90.png?raw=true" width="250" /> |
-| **`/profile`** | Info Profile akun kamu. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_91.png?raw=true" width="250" /> |
-| **`/banditstatus`** | Info Bandit Event / Faction Warfare . | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_92.png?raw=true" width="250" /> |
-| **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_93.png?raw=true" width="250" /> |
-| **`/timezone`** | Check WIB ke UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="250" /> |
-| **`/roll`** | Roll dadu 1–100. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_95.png?raw=true" width="250" /> |
-| **`/saran`** | Kasih saran untuk bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_97.png?raw=true" width="250" /> |
-| **`/serverinfo`** | Informasi server Discord. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_98.png?raw=true" width="250" /> |
+| **`/register`** | Daftarkan nickname Albion + Auto Role Register , Webhook notifikasi. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_96.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_100.png?raw=true" width="300" />|
+| **`/albionprofile`** | Cek *profile* detail karakter Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_79.png?raw=true" width="300" /> |
+| **`/combatfame`** | Fame Kalkulator semua senjata berdasarkan level. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_80.png?raw=true" width="300" /> |
+| **`/price`** | Cek harga item Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_81.png?raw=true" width="300" /> |
+| **`/gold`** | Cek harga Gold Albion saat ini. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_82.png?raw=true" width="300" /> |
+| **`/premium`** | Cek harga Premium Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_83.png?raw=true" width="300" /> |
+| **`/resource`** | Informasi Bonus Kota *resource*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_84.png?raw=true" width="300" /> |
+| **`/build`** | Random Build Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_85.png?raw=true" width="300" /> |
+| **`/rute`** | Cek rute ke portal lain / Rest Area. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_87.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_86.png?raw=true" width="300" /> |
+| **`/scanner`** | Scan zona untuk melihat aktivitas. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_88.png?raw=true" width="300" /> |
+| **`/scoutreport`** | Kirim laporan *scout*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_89.png?raw=true" width="300" /> |
+| **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_90.png?raw=true" width="300" /> |
+| **`/profile`** | Info Profile akun kamu. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_91.png?raw=true" width="300" /> |
+| **`/banditstatus`** | Info Bandit Event / Faction Warfare . | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_92.png?raw=true" width="300" /> |
+| **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_93.png?raw=true" width="300" /> |
+| **`/timezone`** | Check WIB ke UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="300" /> |
+| **`/roll`** | Roll dadu 1–100. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_95.png?raw=true" width="300" /> |
+| **`/saran`** | Kasih saran untuk bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_97.png?raw=true" width="300" /> |
+| **`/serverinfo`** | Informasi server Discord. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_98.png?raw=true" width="300" /> |
 | **`/ping`** | Cek latensi bot. | |
 | **`/info`** | Cek Informasi Bot. |  |
 | **`/help`** | Cek semua command. |  |
@@ -92,7 +92,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/jadwal`** | Buat/lihat jadwal mabar. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_102.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_103.png?raw=true" width="250" />|
+| **`/jadwal`** | Buat/lihat jadwal mabar. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_102.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_103.png?raw=true" width="300" />|
 | **`/canceljadwal`** | Batalkan jadwal mabar. | |
 | **`/done_manual`** | Tandai konten sebagai selesai secara manual. | |
 | **`/setcaller`** | Tambahkan atau kurangi *caller* kontribusi user. | |
