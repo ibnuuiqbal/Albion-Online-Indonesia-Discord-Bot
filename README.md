@@ -40,11 +40,11 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/deposit`** | Deposit *cash* ke *bank* pribadi. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_58.png?raw=true" width="150" /> |
 | **`/withdraw`** | Tarik saldo dari *bank*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_59.png?raw=true" width="150" /> |
 | **`/transfer`** | Transfer saldo ke user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_60.png?raw=true" width="150" />|
-| **`/invest`** | Investasikan silver untuk bunga (24 jam). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_61.png?raw=true" width="150" /> |
-| **`/claiminvest`** | Klaim hasil investasi Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_62.png?raw=true" width="150" /> |
-| **`/history`** | Riwayat transfer dan donasi saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_63.png?raw=true" width="150" /> |
-| **`/donasi`** | Donasikan *cash* ke Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_64.png?raw=true" width="150" /> |
-| **`/guildbalance`** | Lihat saldo Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_65.png?raw=true" width="150" /> |
+| **`/invest`** | Investasikan silver untuk bunga (24 jam). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_62.png?raw=true" width="150" /> |
+| **`/claiminvest`** | Klaim hasil investasi Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_63.png?raw=true" width="150" /> |
+| **`/history`** | Riwayat transfer dan donasi saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_64.png?raw=true" width="150" /> |
+| **`/donasi`** | Donasikan *cash* ke Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_65.png?raw=true" width="150" /> |
+| **`/guildbalance`** | Lihat saldo Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_66.png?raw=true" width="150" /> |
 
 ### 🎯 Kategori: MINIGAME 
 
