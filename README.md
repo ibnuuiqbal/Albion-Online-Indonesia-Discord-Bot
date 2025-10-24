@@ -34,18 +34,19 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 ### 💰 Kategori: MANAJEMEN KEUANGAN & BANK GUILD
 
 | Command | Deskripsi | Tampilan (Screenshot) |
-| :--- | :--- | :--- |
-| **`/daily`** | Klaim **Bonus Silver Harian** Anda **dari guild** ke saldo **Cash** pribadi. Fitur ini dirancang untuk mendorong aktivitas member dan membantu modal awal harian. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_56.png?raw=true" width="250" /> |
-| **`/balance`** | Cek saldo keuangan Anda secara *real-time*, memisahkan saldo **Cash** (siap pakai) dan saldo **Bank** (simpanan pribadi/tabungan). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_57.png?raw=true" width="250" /> |
-| **`/deposit`** | Pindahkan saldo **Cash** (saldo utama) Anda ke **Bank** pribadi (simpanan). Fitur ini membantu anggota menyimpan silver dengan aman dan terpisah dari transaksi harian. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_58.png?raw=true" width="250" /> |
-| **`/withdraw`** | Tarik sejumlah silver dari saldo **Bank** pribadi Anda ke saldo **Cash** Anda. Memungkinkan penarikan dana simpanan dengan mudah saat dibutuhkan. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_59.png?raw=true" width="250" /> |
-| **`/transfer`** | Kirim saldo **Cash** ke anggota *user* Discord lain dalam hitungan detik. Fitur ini mempermudah transaksi antar-member tanpa perlu *in-game*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_60.png?raw=true" width="250" />|
-| **`/donasi`** | **Donasikan** saldo *cash* pribadi Anda ke **Bank Guild**. Transaksi ini dicatat secara permanen sebagai kontribusi keuangan Anda kepada Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_65.png?raw=true" width="250" /> |
-| **`/guildbalance`** | Lihat saldo total **Bank Guild** yang tersedia untuk **Regear**, Hadiah Konten, atau Donasi. Hanya Staff/Officer yang dapat melihat detail transaksi masuk/keluar Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_66.png?raw=true" width="250" /> |
-| **`/invest`** | **Simulasi Investasi:** Investasikan sejumlah silver dari saldo **Bank** Anda untuk mendapatkan persentase **Bunga** (Profit) setelah masa tunggu 24 jam. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_62.png?raw=true" width="250" /> |
-| **`/claiminvest`** | Klaim hasil investasi yang telah matang beserta **Bunga** yang Anda peroleh, dan otomatis masuk ke saldo **Cash** Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_63.png?raw=true" width="250" /> |
-| **`/history`** | Lihat riwayat lengkap **Aktivitas Transaksi** Anda, termasuk transfer masuk/keluar, klaim *daily*, *withdraw*, dan *deposit* saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_64.png?raw=true" width="250" /> |
 
+| :--- | :--- | :--- |
+
+| **`/daily`** | Klaim **Bonus Silver Harian** Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_56.png?raw=true" width="250" /> |
+| **`/balance`** | Cek saldo keuangan Anda (**Cash** dan **Bank**). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_57.png?raw=true" width="250" /> |
+| **`/deposit`** | Pindahkan saldo **Cash** ke **Bank** pribadi (simpanan). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_58.png?raw=true" width="250" /> |
+| **`/withdraw`** | Tarik saldo dari **Bank** pribadi Anda ke **Cash**. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_59.png?raw=true" width="250" /> |
+| **`/transfer`** | Kirim saldo ke anggota *user* Discord lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_60.png?raw=true" width="250" />|
+| **`/donasi`** | **Donasikan** saldo *cash* pribadi Anda ke **Bank Guild**. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_65.png?raw=true" width="250" /> |
+| **`/guildbalance`** | Lihat saldo total **Bank Guild** yang tersedia. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_66.png?raw=true" width="250" /> |
+| **`/invest`** | Investasikan sejumlah silver untuk mendapatkan **Bunga** setelah 24 jam. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_62.png?raw=true" width="250" /> |
+| **`/claiminvest`** | Klaim hasil investasi beserta **Bunga** yang telah matang. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_63.png?raw=true" width="250" /> |
+| **`/history`** | Lihat riwayat lengkap **Aktivitas Transaksi**, transfer, dan donasi saldo Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_64.png?raw=true" width="250" /> |
 ### 🎯 Kategori: MINIGAME 
 
 | Command | Deskripsi | Tampilan (Screenshot) |
