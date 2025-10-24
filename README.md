@@ -1,17 +1,17 @@
-# ⚔️ Albion Online Indonesia Discord Bot
+# ⚔️ Albion Online Indonesia Discord Bot - made with Love Albion Community ❤️
 
 ![Status Bot](https://img.shields.io/badge/Status-Aktif%20di%20Discord-4E9A06?style=for-the-badge&logo=discord)
 [![Lisensi](https://img.shields.io/badge/License-Proprietary%20(Private)-red?style=for-the-badge)]([URL_REPO_ANDA])
 
-Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dirancang khusus untuk komunitas dan Guild Albion Online berbahasa Indonesia. Bot ini fokus pada otomasisasi manajemen aktivitas **mabar**, pelacakan kontribusi, dan pengelolaan ekonomi virtual guild yang terintegrasi, didukung oleh **Discord.js 18v** dan **Mongoose (MongoDB)** untuk stabilitas data.
+Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dirancang khusus untuk komunitas dan Guild Albion Online berbahasa Indonesia. Bot ini fokus pada otomasisasi manajemen aktivitas **MABAR**, pelacakan kontribusi, dan pengelolaan ekonomi virtual guild yang terintegrasi, didukung oleh **Discord.js 18v** dan **Mongoose (MongoDB)** untuk stabilitas data.
 
 ---
 
 ## 🛡️ Ingin Bergabung atau Menggunakan Bot Kami?
 
-Bot ini adalah **Bot Privat** yang dikembangkan khusus untuk Guild kami.
+Bot ini adalah **Bot Private** yang dikembangkan khusus untuk Guild kami.
 
-Kami menyambut pemain AOI lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan server Discord kami:
+Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan server Discord kami:
 
 [➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](https://discord.gg/h7UcseapeH)
 
@@ -36,15 +36,15 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
 | **`/daily`** | Ambil bonus silver harian. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_56.png?raw=true" width="150" /> |
-| **`/balance`** | Cek saldo *cash* dan *bank* virtual Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_57.png?raw=true" width="150" /> |
+| **`/balance`** | Cek saldo *cash* dan *bank* Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_57.png?raw=true" width="150" /> |
 | **`/deposit`** | Deposit *cash* ke *bank* pribadi. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_58.png?raw=true" width="150" /> |
-| **`/withdraw`** | Tarik saldo dari *bank* (ada pajak). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_59.png?raw=true" width="150" /> |
+| **`/withdraw`** | Tarik saldo dari *bank*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_59.png?raw=true" width="150" /> |
 | **`/transfer`** | Transfer saldo ke user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_60.png?raw=true" width="150" />|
 | **`/invest`** | Investasikan silver untuk bunga (24 jam). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_61.png?raw=true" width="150" /> |
 | **`/claiminvest`** | Klaim hasil investasi Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_62.png?raw=true" width="150" /> |
 | **`/history`** | Riwayat transfer dan donasi saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_63.png?raw=true" width="150" /> |
 | **`/donasi`** | Donasikan *cash* ke Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_64.png?raw=true" width="150" /> |
-| **`/guildbalance`** | Lihat saldo Bank Guild (khusus Officer). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_65.png?raw=true" width="150" /> |
+| **`/guildbalance`** | Lihat saldo Bank Guild. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_65.png?raw=true" width="150" /> |
 
 ### 🎯 Kategori: MINIGAME 
 
