@@ -91,7 +91,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/jadwal`** | Buat/lihat jadwal mabar. | <img src="[URL_FOTO_ANDA_JADWAL]" width="300" /> |
+| **`/jadwal`** | Buat/lihat jadwal mabar. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_102.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_103.png?raw=true" width="250" />|
 | **`/canceljadwal`** | Batalkan jadwal mabar. | <img src="[URL_FOTO_ANDA_CANCELJADWAL]" width="300" /> |
 | **`/done_manual`** | Tandai konten sebagai selesai secara manual. | <img src="[URL_FOTO_ANDA_DONE_MANUAL]" width="300" /> |
 | **`/setcaller`** | Tentukan Caller utama untuk konten. | <img src="[URL_FOTO_ANDA_SETCALLER]" width="300" /> |
