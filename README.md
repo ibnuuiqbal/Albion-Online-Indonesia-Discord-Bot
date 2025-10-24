@@ -83,9 +83,11 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_93.png?raw=true" width="250" /> |
 | **`/timezone`** | Check UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="250" /> |
 | **`/roll`** | Roll dadu 1–100. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_95.png?raw=true" width="250" /> |
-| **`/saran`** | Kasih saran fitur bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_97.png?raw=true" width="250" /> |
+| **`/saran`** | Kasih saran untuk bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_97.png?raw=true" width="250" /> |
 | **`/serverinfo`** | Informasi server Discord. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_98.png?raw=true" width="250" /> |
-| **`/ping`** | Cek latensi bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_99.png?raw=true" width="250" /> |
+| **`/ping`** | Cek latensi bot. | |
+| **`/info`** | Cek Informasi Bot. |  |
+| **`/help`** | Cek semua command. |  |
 
 ### ⚙️ Kategori: MODERASI (Staff/Officer Only)
 
@@ -94,7 +96,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/jadwal`** | Buat/lihat jadwal mabar. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_102.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_103.png?raw=true" width="250" />|
 | **`/canceljadwal`** | Batalkan jadwal mabar. | |
 | **`/done_manual`** | Tandai konten sebagai selesai secara manual. | |
-| **`/setcaller`** | Tentukan Caller utama untuk konten. | |
+| **`/setcaller`** | Tambahkan atau kurangi *caller* kontribusi user. | |
 | **`/setpoint`** | Tambahkan atau kurangi *point* kontribusi user. | |
 | **`/hideout-delete`**| Hapus rute atau lokasi hideout. | |
 | **`/addbalance`** | Tambah saldo user (Moderasi Saldo). | |
@@ -103,7 +105,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/cleanupbounty`**| Bersihkan daftar *bounty* yang kadaluarsa. | |
 | **`/claimbounty`** | Klaim *bounty* dari user yang sudah dikalahkan. | |
 | **`/dbfix`** | Perbaiki atau optimasi database. | |
-| **`/chat`** | Chat dengan bot AI. | |
+| **`/chat`** | Chat sebagai Bot. | |
 
 ---
 
