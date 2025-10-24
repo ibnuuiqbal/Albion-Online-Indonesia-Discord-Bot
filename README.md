@@ -74,7 +74,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/premium`** | Cek harga Premium Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_83.png?raw=true" width="250" /> |
 | **`/resource`** | Informasi Bonus Kota *resource*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_84.png?raw=true" width="250" /> |
 | **`/build`** | Random Build Albion. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_85.png?raw=true" width="250" /> |
-| **`/rute`** | Cek rute farming/ganking yang disarankan. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_87.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_86.png?raw=true" width="250" /> |
+| **`/rute`** | Cek rute ke portal lain / Rest Area. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_87.png?raw=true" width="250" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_86.png?raw=true" width="250" /> |
 | **`/scanner`** | Scan zona/map untuk melihat aktivitas. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_88.png?raw=true" width="250" /> |
 | **`/scoutreport`** | Kirim laporan *scout*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_89.png?raw=true" width="250" /> |
 | **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_90.png?raw=true" width="250" /> |
