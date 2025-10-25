@@ -45,7 +45,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/invest`** | **Simulasi Investasi:** Investasikan silver untuk mendapatkan **Bunga** (Profit) setelah 24 jam. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_62.png?raw=true" width="300" /> |
 | **`/claiminvest`** | Klaim hasil investasi yang telah matang beserta **Bunga** yang diperoleh. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_63.png?raw=true" width="300" /> |
 | **`/history`** | Lihat riwayat lengkap **Aktivitas Transaksi** pribadi Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_64.png?raw=true" width="300" /> |
-| **`/siphon`** | Manajemen Siphoned Energy Role ( deposite, check, dll) . | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_106.png?raw=true" width="300" /> |
+| **`/siphon`** | Manajemen Siphoned Energy Perms ( deposite, check, dll) . | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_106.png?raw=true" width="300" /> |
 ### 🎯 Kategori: MINIGAME 
 
 | Command | Deskripsi | Tampilan (Screenshot) |
