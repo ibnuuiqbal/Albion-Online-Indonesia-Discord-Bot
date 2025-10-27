@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Bot MABAR" width="100" height="100">
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800" height="200">
 </p>
 # 🇮🇩 Albion Online Discord Bot (MABAR) - Guild Management System
 
