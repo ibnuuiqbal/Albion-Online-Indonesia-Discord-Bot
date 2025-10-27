@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Bot MABAR" width="100" height="100">
+</p>
 # 🇮🇩 Albion Online Discord Bot (MABAR) - Guild Management System
 
 [![Status Bot](https://img.shields.io/badge/Status-Aktif%20di%20Discord-4E9A06?style=for-the-badge&logo=discord)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
