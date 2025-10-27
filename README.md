@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800" height="200">
-</p>
 # 🇮🇩 Albion Online Discord Bot (MABAR) - Guild Management System
 
 [![Status Bot](https://img.shields.io/badge/Status-Aktif%20di%20Discord-4E9A06?style=for-the-badge&logo=discord)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
 [![Lisensi](https://img.shields.io/badge/License-Proprietary%20(Private)-red?style=for-the-badge)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
+<p align="center">
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800" height="200">
+</p>
+
 
 Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dirancang khusus untuk komunitas dan Guild Albion Online berbahasa Indonesia. Bot ini fokus pada otomasisasi manajemen aktivitas **MABAR**, pelacakan kontribusi, dan pengelolaan ekonomi guild yang terintegrasi, didukung oleh **Discord.js v18** dan **Mongoose (MongoDB)** untuk stabilitas data dengan tujuan mempermudah bermain albion online bersama.
 
