@@ -11,7 +11,7 @@ Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dir
 ---
 
 ## 🛡️ Ingin Bergabung atau Menggunakan Bot Kami?
-
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Bot MABAR" width="100" height="100">
 Bot ini dikembangkan khusus untuk Discord kami (**Mabar**).
 
 Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan Publik server Discord kami:
