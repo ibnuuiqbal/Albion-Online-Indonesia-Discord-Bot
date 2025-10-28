@@ -81,8 +81,8 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/rute`** | Cek rute ke portal lain / Rest Area. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_87.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_86.png?raw=true" width="300" /> |
 | **`/scanner`** | Scan zona untuk melihat aktivitas. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_88.png?raw=true" width="300" /> |
 | **`/scout`** | Kirim laporan *scout*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_89.png?raw=true" width="300" /> |
-| **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_90.png?raw=true" width="300" /> |
-| **`/profile`** | Info Profile akun kamu. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_91.png?raw=true" width="300" /> |
+| **`/userinfo`** | Info user (saldo, stats, caller, dll). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_122.png?raw=true" width="300" /> |
+| **`/profile`** | Info Profile akun kamu. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_123.png?raw=true" width="300" /> |
 | **`/banditstatus`** | Info Bandit Event / Faction Warfare . | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_92.png?raw=true" width="300" /> |
 | **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_93.png?raw=true" width="300" /> |
 | **`/timezone`** | Check WIB ke UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="300" /> |
