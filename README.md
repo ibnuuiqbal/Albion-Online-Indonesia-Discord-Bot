@@ -39,6 +39,8 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
+| **`/subsidi`** | Subsidi Silver kepada member yang miskin (dari pajak guild). | <img src="" width="300" /> |
+| **`/work`** | Roleplay Kerja dapat silver. | <img src="" width="300" /> |
 | **`/daily`** | Klaim **Bonus Silver Harian** ke saldo **Cash** Anda. Membantu modal awal harian member. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_56.png?raw=true" width="300" /> |
 | **`/balance`** | Cek saldo **Cash** (siap pakai) dan **Bank** (simpanan pribadi) Anda secara *real-time*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_57.png?raw=true" width="300" /> |
 | **`/deposit`** | Pindahkan saldo **Cash** ke **Bank** pribadi (simpanan aman). | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_58.png?raw=true" width="300" /> |
@@ -65,6 +67,8 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/lottery`** | Undian berhadiah saldo. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_73.png?raw=true" width="300" /> |
 | **`/rob`** | Merampok user lain. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_74.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_75.png?raw=true" width="300" /> |
 | **`/stats`** | Statistik permainan (Minigame) Anda. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-minigame/Screenshot_76.png?raw=true" width="300" /> |
+| **`/dice`** | Permainan dadu. | <img src="" width="300" /> |
+| **`/rps`** | Batu Gunting Kertas. | <img src="" width="300" /> |
 
 ### ℹ️ Kategori: FITUR KEREN
 
