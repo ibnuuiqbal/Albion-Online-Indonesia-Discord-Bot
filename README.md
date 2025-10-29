@@ -104,7 +104,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/setcaller`** | Tambahkan atau kurangi *caller* kontribusi user. | |
 | **`/setpoint`** | Tambahkan atau kurangi *point* kontribusi user. | |
 | **`/hideout-delete`**| Hapus rute atau lokasi hideout. | |
-| **`/addbalance`** | Tambah saldo user (Moderasi Saldo). | |
+| **`/setbalance`** | Tambah saldo user (Moderasi Saldo). | |
 | **`/removebalance`**| Kurangi saldo user (Moderasi Saldo). | |
 | **`/tax`** | Cek atau atur persentase pajak transaksi guild. | |
 | **`/cleanupbounty`**| Bersihkan daftar *bounty* yang kadaluarsa. | |
