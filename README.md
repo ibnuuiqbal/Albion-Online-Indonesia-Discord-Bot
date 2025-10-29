@@ -39,7 +39,7 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 
 | Command | Deskripsi | Tampilan (Screenshot) |
 | :--- | :--- | :--- |
-| **`/subsidi`** | Subsidi Silver kepada member yang miskin (dari pajak guild). |  |
+| **`/subsidi`** | Subsidi Silver kepada member yang miskin (dari pajak guild) + berintergrasi universal. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_132.png?raw=true" width="300" /> |
 | **`/work`** | Roleplay Kerja dapat silver. |  |
 | **`/daily`** | Klaim **Bonus Silver Harian** ke saldo **Cash** Anda. Membantu modal awal harian member. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_56.png?raw=true" width="300" /> |
 | **`/balance`** | Cek saldo **Cash** (siap pakai) dan **Bank** (simpanan pribadi) Anda secara *real-time*. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-financial/Screenshot_57.png?raw=true" width="300" /> |
