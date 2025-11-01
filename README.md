@@ -7,7 +7,8 @@
 </p>
 
 
-Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dirancang khusus untuk komunitas dan Guild Albion Online berbahasa Indonesia. Bot ini fokus pada otomasisasi manajemen aktivitas **MABAR**, pelacakan kontribusi, dan pengelolaan ekonomi guild yang terintegrasi, didukung oleh **Discord.js v18** dan **Mongoose (MongoDB)** untuk stabilitas data dengan tujuan mempermudah bermain albion online bersama.
+Albion Online Indonesia Discord Bot adalah asisten Discord komprehensif yang dirancang khusus untuk komunitas dan Guild Albion Online berbahasa Indonesia.
+Bot ini didukung oleh Artificial Intelligence (AI) Cerdas dengan persona 'Guild Master Mabar' yang mampu memberikan panduan strategis, analisis ekonomi in-game, dan merespons percakapan umum (smart nimbruk) secara natural dan relevan dengan topik Albion Online.
 
 ---
 
@@ -91,6 +92,8 @@ Berikut adalah daftar lengkap semua *slash command* yang tersedia, dikelompokkan
 | **`/randomfact`** | Fakta acak seputar Albion Online. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_93.png?raw=true" width="300" /> |
 | **`/timezone`** | Check WIB ke UTC. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_94.png?raw=true" width="300" /> |
 | **`/roll`** | Roll dadu 1–100. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_95.png?raw=true" width="300" /> |
+| **`/poll`** | Polling. |  |
+| **`/albionmeme`** | Generate Subreddit Albion Online. |  |
 | **`/saran`** | Kasih saran untuk bot. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_97.png?raw=true" width="300" /> |
 | **`/serverinfo`** | Informasi server Discord. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_98.png?raw=true" width="300" /> |
 | **`/hideout core`** | Pengumuman Core berdasarkan waktu terbuka + Reward system + Report system. | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_107.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_110.png?raw=true" width="300" /> <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-fitur/Screenshot_111.png?raw=true" width="300" />|
