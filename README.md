@@ -12,6 +12,10 @@ Bot ini didukung oleh Artificial Intelligence (AI) Cerdas dengan persona 'Guild 
 
 ---
 
+<p align="center">
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_138.png?raw=true" alt="Logo Bot MABAR" width="800" height="200">
+</p>
+
 ## 🛡️ Ingin Bergabung atau Menggunakan Bot Kami?
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Bot MABAR" width="100" height="100">
 Bot ini dikembangkan khusus untuk Discord kami (**Mabar**).
