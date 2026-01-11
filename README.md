@@ -16,105 +16,99 @@
 
 * **Anti-Pterodactyl Restart (Recovery System):** Kolektor party `/konten` tetap aktif meskipun bot atau server VPS melakukan restart.
 * **Smart Content Stats:** Pelacakan otomatis performa mabar (Selesai Manual, Auto-Done, atau Expired).
-* **Caller Rating System:** Fitur interaktif bagi anggota untuk memberikan feedback kepada Caller setelah konten selesai.
+* **Caller Rating System:** Strategi interaksi pasca-konten untuk meningkatkan kualitas Caller melalui feedback member.
 * **Hybrid Economy:** Integrasi saldo Cash, Bank Pribadi, dan Bank Guild dengan sistem Pajak (Tax) otomatis.
 
 ---
 
-## 📜 Daftar Lengkap Slash Commands (80+ Commands)
+## 📜 Daftar Lengkap Slash Commands (Update 2026)
 
 ### ⚔️ Kategori: Pengelolaan Mabar & Konten
-Sistem pendaftaran party interaktif dengan auto-role dan reward.
+Sistem pendaftaran party interaktif dengan auto-role dan reward terintegrasi.
 * `/konten` - Membuka pendaftaran party (Mabar) otomatis.
-* `/contentstats` - (BARU) Statistik performa konten guild.
-* `/rankmabar` - Papan peringkat partisipasi & kontribusi.
-* `/splitloot` - Kalkulator pembagian loot party.
-* `/regear` - Sistem klaim regear dengan transfer silver otomatis.
-* `/hideout` - Update lokasi Hideout/Territory (Auto 24 jam).
-* `/rute` - Cek rute antar portal atau rest area.
-* `/scanner` - Scan zona untuk aktivitas musuh.
-* `/scout` - Laporan aktivitas scout di lapangan.
-* `/jadwal` - Penjadwalan konten di masa mendatang.
-* `/canceljadwal` - Membatalkan jadwal yang sudah dibuat.
-* `/resetparty` - Reset data party yang sedang berjalan.
-* `/partydelete` - Menghapus data party dari database.
+* `/contentstats` - (BARU) Statistik performa konten guild (Done/Auto/Expired).
+* `/rankmabar` - Papan peringkat partisipasi & kontribusi member.
+* `/splitloot` - Kalkulator pembagian loot party secara adil.
+* `/regear` - Sistem klaim regear otomatis via Modal UI & Transfer Silver.
+* `/hideout` & `/hideout-delete` - Manajemen lokasi strategis & rute Guild.
+* `/rute` - Informasi rute portal dan rest area tercepat.
+* `/scanner` - Scan zona untuk deteksi aktivitas musuh.
+* `/scout` - Sistem pelaporan scout di lapangan secara real-time.
+* `/jadwal` & `/canceljadwal` - Penjadwalan konten mabar di masa mendatang.
+* `/resetparty` & `/partydelete` - Maintenance data party dalam database.
+* `/done_manual` & `/recover_manual` - Override status party secara manual.
+
+### 🛡️ Kategori: Militer & CTA (Call to Arms)
+Fitur khusus untuk manajemen perang (ZvZ) dan keaktifan militer.
+* `/cta-rank` - Peringkat keaktifan member dalam event CTA.
+* `/cta-history` - Riwayat partisipasi CTA individu maupun guild.
+* `/cta-check` - Pengecekan kehadiran member saat jam CTA dimulai.
+* `/setcaller` - Pemberian poin khusus untuk kontribusi Caller.
+* `/setpoint`, `/clear-point` - Manajemen poin kontribusi member.
 
 ### 💰 Kategori: Keuangan & Bank Guild
-Manajemen ekonomi guild yang transparan dan otomatis.
-* `/balance` - Cek saldo Cash dan Bank pribadi.
-* `/deposit` / `/withdraw` - Kelola simpanan bank pribadi.
-* `/transfer` - Kirim silver antar anggota.
-* `/donasi` - Kontribusi silver ke Bank Guild.
-* `/guildbalance` - Cek total kas operasional guild.
-* `/subsidi` - Pembagian silver untuk member kurang mampu.
-* `/tax` - Pengaturan pajak transaksi guild.
-* `/invest` / `/claiminvest` - Sistem investasi silver berjangka.
-* `/history` - Riwayat lengkap seluruh transaksi finansial.
-* `/siphon` - Manajemen setoran Siphoned Energy.
-* `/bayar` / `/lunas` - Sistem manajemen utang piutang.
-* `/ngutang` / `/tagih` / `/cek_piutang` - Fitur kredit antar member.
-* `/setbalance` / `/sweepbalance` - Tool admin untuk audit saldo.
+Manajemen ekonomi guild yang transparan, aman, dan otomatis.
+* `/balance` / `/profile` - Cek saldo Cash (dompet) & Bank pribadi.
+* `/deposit` / `/withdraw` - Manajemen simpanan bank pribadi.
+* `/transfer` - Kirim silver aman antar anggota guild.
+* `/donasi` - Kontribusi perak langsung ke kas Bank Guild.
+* `/guildbalance` & `/guildroster` - Status keuangan & list member guild terbaru.
+* `/subsidi` - Distribusi dana bantuan guild untuk member.
+* `/tax` - Pengaturan persentase pajak transaksi internal guild.
+* `/invest` & `/claiminvest` - Sistem investasi perak dengan bunga harian.
+* `/history` - Log riwayat lengkap seluruh transaksi finansial user.
+* `/siphon` - Manajemen deposit dan pengecekan Siphoned Energy.
+* `/bayar`, `/lunas`, `/ngutang`, `/tagih`, `/cek_piutang` - Sistem manajemen hutang piutang member.
+* `/setbalance` & `/sweepbalance` - Tool administratif untuk audit/reset saldo.
 
 ### 📊 Kategori: Informasi & Albion API
-Data real-time yang ditarik langsung dari API Albion Online.
-* `/albionprofile` - Detail statistik karakter (Fame, Kill, Death).
-* `/price` - Cek harga item di berbagai market kota.
-* `/gold` - Cek harga Gold in-game saat ini.
-* `/premium` - Estimasi harga Premium Albion.
-* `/combatfame` - Kalkulator optimasi fame senjata.
-* `/resource` - Informasi bonus kota untuk crafting/gathering.
-* `/banditstatus` - Status event Faction Warfare (Bandit).
-* `/build` - Generator build item acak untuk inspirasi.
-* `/gvgstatus` - Informasi status perang GvG.
-* `/season` - Cek progres season guild saat ini.
-* `/topterritory` - Daftar teritori dengan poin tertinggi.
+Data real-time yang ditarik langsung dari server resmi Albion Online.
+* `/albionprofile` - Statistik lengkap karakter (Fame, Kill, Death).
+* `/price` / `/gold` / `/premium` - Cek harga market & kurs perak secara real-time.
+* `/combatfame` - Kalkulator optimasi penggunaan tome/fame senjata.
+* `/resource` - Data bonus harian kota untuk crafting & gathering.
+* `/banditstatus` - Update otomatis event Faction Warfare (Bandit).
+* `/gvgstatus`, `/season`, `/topterritory` - Monitoring kompetisi guild secara global.
+* `/randomfact` - Fakta unik dan edukatif seputar Albion Online.
+* `/timezone` - Konversi waktu WIB ke UTC (Waktu Server Albion).
 
 ### 🎯 Kategori: Minigame & Entertainment
-Meningkatkan aktivitas member di dalam Discord.
-* `/adventure` - Petualangan RPG berbasis teks di zona Albion.
-* `/fishing` - Simulasi memancing ikan Albion.
-* `/quest` - Misi harian untuk mendapatkan hadiah saldo.
-* `/trivia` - Kuis seputar dunia Albion Online (500+ soal).
-* `/gamble` / `/slot` - Permainan keberuntungan slot machine.
-* `/coinflip` / `/dice` / `/roll` - Taruhan cepat antar member.
-* `/rob` - Fitur interaktif merampok saldo member lain.
-* `/bounty` / `/setbounty` - Pasang harga untuk "kepala" member lain.
-* `/rps` - Batu, Gunting, Kertas (Rock Paper Scissors).
-* `/albionmeme` - Mengambil meme terbaru dari subreddit Albion.
-* `/randomfact` - Fakta unik harian tentang Albion.
+Meningkatkan retensi dan aktivitas member di dalam server Discord.
+* `/adventure` / `/fishing` - Roleplay petualangan dan memancing ikan Albion.
+* `/quest`, `/work`, `/daily` - Aktivitas harian untuk menghasilkan silver bot.
+* `/trivia` - Kuis Albion Online dengan koleksi 500+ pertanyaan.
+* `/gamble`, `/coinflip`, `/dice`, `/kocok`, `/roll` - Game keberuntungan & taruhan.
+* `/lottery` & `/giveaway` - Sistem undian otomatis berhadiah saldo.
+* `/rob` & `/bounty`, `/setbounty` - Fitur interaksi PvP sosial (rampok & buronan).
+* `/rps` - Permainan Batu Gunting Kertas klasik.
+* `/albionmeme` - Menampilkan meme terbaru dari subreddit Albion Online.
+* `/confess` - Mengirimkan pesan anonim ke channel tertentu.
 
-### ⚙️ Kategori: Sistem & Moderasi
-Fitur inti untuk menjaga ketertiban dan pendaftaran.
-* `/register` - Pendaftaran nickname in-game ke database Discord.
-* `/sendregister` - Mengirim pesan instruksi pendaftaran.
-* `/profile` / `/userinfo` - Informasi akun dan statistik member.
-* `/info` - Status teknis bot, latency, dan developer.
-* `/help` - Panduan penggunaan seluruh command.
-* `/ping` - Cek kecepatan respon bot.
-* `/saran` - Form masukan untuk pengembangan bot.
-* `/poll` - Membuat pemungutan suara (voting).
-* `/confess` - Mengirim pesan rahasia secara anonim.
-* `/chat` - Mengirim pesan melalui identitas bot.
-* `/satpam` - Sistem proteksi dan log moderasi.
-* `/dbfix` - Pemeliharaan struktur database.
+### ⚙️ Kategori: Utilitas & Sistem
+Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
+* `/register` & `/sendregister` - Sistem integrasi pendaftaran nickname in-game.
+* `/mytimers` & `/timer` - Pengingat waktu konten pribadi maupun guild.
+* `/userinfo` / `/serverinfo` - Informasi mendalam mengenai user & server.
+* `/help` / `/info` / `/ping` - Pusat bantuan, status teknis, dan latensi bot.
+* `/saran` / `/poll` / `/chat` - Fitur feedback, voting, dan interaksi bot.
+* `/satpam` - Sistem logging moderasi dan proteksi server.
+* `/dbfix` - Tool pemeliharaan struktur database MongoDB.
 * `/cleanupbounty` / `/claimbounty` - Manajemen sistem buronan.
-* `/setcaller` / `/setpoint` - Pemberian poin kontribusi manual.
-* `/done_manual` / `/recover_manual` - Override status konten.
 
 ---
 
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
-Source code bot ini bersifat **Proprietary**. Jika Anda berminat untuk memiliki atau menyewa bot ini untuk Guild/Aliansi Anda:
+Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
 
-* **Sewa Bulanan:** Instalasi instan di server Anda.
-* **Beli Source Code:** Hak milik penuh, bebas modifikasi & hosting mandiri.
+* **Sewa Bulanan:** Instalasi cepat di server Anda tanpa perlu ribet urus VPS.
+* **Beli Source Code:** Hak milik penuh atas seluruh file, bebas modifikasi, dan hosting mandiri.
 
-**Hubungi Developer:**
+**Tertarik? Hubungi Lead Developer:**
 [➡️ **GABUNG SERVER DISCORD MABAR** ⬅️](https://discord.gg/h7UcseapeH)
 
 ---
 <p align="center">
   Dibuat dengan ❤️ oleh <strong>Ibnuuiqbal (JokoSmilch)</strong><br>
-  <i>Inspirasi: Temen Assistance & Freezer Cool</i>
+  <i>Inspirasi: Temen Assistance oleh pxndameong & Freezer Cool</i>
 </p>
