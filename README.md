@@ -10,6 +10,27 @@
 
 **Mabar Assistant** adalah solusi All-in-One untuk Guild Albion Online. Bot ini bukan sekadar bot informasi, melainkan sistem manajemen operasional lengkap yang mencakup Ekonomi, Militer (CTA), dan Social Engagement.
 
+<p align="center">
+
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_138.png?raw=true" alt="Logo Bot MABAR" width="800" height="400">
+
+</p>
+
+
+
+## 🛡️ Ingin Bergabung atau Menggunakan Bot Kami?
+
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Bot MABAR" width="100" height="100">
+
+Bot ini dikembangkan khusus untuk Discord kami (**Mabar**).
+
+
+
+Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan Publik server Discord kami:
+
+
+
+[➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](https://discord.gg/h7UcseapeH)
 ---
 
 ## 🚀 Fitur Unggulan Terbaru
