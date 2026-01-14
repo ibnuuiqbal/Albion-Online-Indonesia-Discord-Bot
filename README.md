@@ -32,7 +32,7 @@ Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Be
 
 [➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](https://discord.gg/h7UcseapeH)
 ---
-
+## 🚀 Fitur Unggulan & Automasi (Update 2026)
 * **Robust Recovery System:** seluruh data pendaftaran party `/konten` tetap terjaga dan aktif secara otomatis meskipun bot atau VPS mengalami restart di tengah jalan.
 * **Automatic Tax & Financial Audit:** bot melakukan perhitungan dan penarikan pajak guild secara berkala untuk menjaga stabilitas kas Bank Guild secara transparan.
 * **Smart Content Stats & Caller Feedback:** Pelacakan otomatis performa mabar (Selesai Manual, Auto-Done, atau Expired) serta sistem rating interaktif bagi member untuk memberikan feedback kepada Caller.
