@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_138.png?raw=true" alt="Logo Bot MABAR" width="800" height="400">
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_11.png?raw=true" alt="Logo Bot MABAR" width="800" height="400">
 
 </p>
 
