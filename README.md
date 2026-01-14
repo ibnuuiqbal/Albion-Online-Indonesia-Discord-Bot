@@ -47,8 +47,9 @@ Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Be
 ### ⚔️ Kategori: Pengelolaan Mabar & Konten
 Sistem pendaftaran party interaktif dengan auto-role dan reward terintegrasi.
 * `/konten` - Membuka pendaftaran party (Mabar) otomatis.
-* `/contentstats` - (BARU) Statistik performa konten guild (Done/Auto/Expired).
+* `/kontenstats` - (BARU) Statistik performa konten guild (Done/Auto/Expired).
 * `/rankmabar` - Papan peringkat partisipasi & kontribusi member.
+* `/nap` - (NEW) Manajemen Non-Aggression Pact (Daftar Guild kawan mabar).
 * `/splitloot` - Kalkulator pembagian loot party secara adil.
 * `/regear` - Sistem klaim regear otomatis via Modal UI & Transfer Silver.
 * `/hideout` & `/hideout-delete` - Manajemen lokasi strategis & rute Guild.
@@ -64,7 +65,7 @@ Fitur khusus untuk manajemen perang (ZvZ) dan keaktifan militer.
 * `/cta-rank` - Peringkat keaktifan member dalam event CTA.
 * `/cta-history` - Riwayat partisipasi CTA individu maupun guild.
 * `/cta-check` - Pengecekan kehadiran member saat jam CTA dimulai.
-* `/setcaller` - Pemberian poin khusus untuk kontribusi Caller.
+* `/setcaller` - Penentuan Caller utama dengan sistem rating kontribusi.
 * `/setpoint`, `/clear-point` - Manajemen poin kontribusi member.
 
 ### 💰 Kategori: Keuangan & Bank Guild
@@ -104,6 +105,7 @@ Meningkatkan retensi dan aktivitas member di dalam server Discord.
 * `/rps` - Permainan Batu Gunting Kertas klasik.
 * `/albionmeme` - Menampilkan meme terbaru dari subreddit Albion Online.
 * `/confess` - Mengirimkan pesan anonim ke channel tertentu.
+* `/stats` - Statistik perkembangan minigame pribadi.
 
 ### ⚙️ Kategori: Utilitas & Sistem
 Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
@@ -117,7 +119,6 @@ Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
 * `/cleanupbounty` / `/claimbounty` - Manajemen sistem buronan.
 
 ---
-
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
 Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
