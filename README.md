@@ -33,12 +33,11 @@ Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Be
 [➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](https://discord.gg/h7UcseapeH)
 ---
 
-## 🚀 Fitur Unggulan Terbaru
-
-* **Anti-Pterodactyl Restart (Recovery System):** Kolektor party `/konten` tetap aktif meskipun bot atau server VPS melakukan restart.
-* **Smart Content Stats:** Pelacakan otomatis performa mabar (Selesai Manual, Auto-Done, atau Expired).
-* **Caller Rating System:** Strategi interaksi pasca-konten untuk meningkatkan kualitas Caller melalui feedback member.
-* **Hybrid Economy:** Integrasi saldo Cash, Bank Pribadi, dan Bank Guild dengan sistem Pajak (Tax) otomatis.
+* **Robust Recovery System:** seluruh data pendaftaran party `/konten` tetap terjaga dan aktif secara otomatis meskipun bot atau VPS mengalami restart di tengah jalan.
+* **Automatic Tax & Financial Audit:** bot melakukan perhitungan dan penarikan pajak guild secara berkala untuk menjaga stabilitas kas Bank Guild secara transparan.
+* **Smart Content Stats & Caller Feedback:** Pelacakan otomatis performa mabar (Selesai Manual, Auto-Done, atau Expired) serta sistem rating interaktif bagi member untuk memberikan feedback kepada Caller.
+* **Advanced Scheduling & Giveaways:** terintegrasi memungkinkan pengundian hadiah saldo/item dan pengingat waktu objektif (Castle/Chest) berjalan secara presisi dan terjadwal.
+* **Hybrid Economy System:** Integrasi saldo Cash, Bank Pribadi, dan Bank Guild yang saling terhubung untuk memfasilitasi donasi, subsidi, hingga investasi member.
 
 ---
 
