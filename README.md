@@ -51,7 +51,7 @@ Sistem pendaftaran party interaktif dengan auto-role dan reward terintegrasi.
 * `/nap` - (NEW) Manajemen Non-Aggression Pact (Daftar Guild kawan mabar).
 * `/splitloot` - Kalkulator pembagian loot party secara adil.
 * `/regear` - Sistem klaim regear otomatis via Modal UI & Transfer Silver.
-* `/hideout` & `/hideout-delete` - Manajemen lokasi strategis & rute Guild.
+* `/hideout` - Manajemen lokasi otomatis RoA / Outland Rute.
 * `/rute` - Informasi rute portal dan rest area tercepat.
 * `/scanner` - Scan zona untuk deteksi aktivitas musuh.
 * `/scout` - Sistem pelaporan scout di lapangan secara real-time.
