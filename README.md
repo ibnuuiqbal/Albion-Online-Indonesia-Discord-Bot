@@ -84,6 +84,8 @@ Manajemen ekonomi guild yang transparan, aman, dan otomatis.
 
 ### 📊 Kategori: Informasi & Albion API
 Data real-time yang ditarik langsung dari server resmi Albion Online.
+* `/roa check` / `/roa-info` - Roa checker Map - info
+* `/albionprofile` - Statistik lengkap karakter (Fame, Kill, Death).
 * `/albionprofile` - Statistik lengkap karakter (Fame, Kill, Death).
 * `/price` / `/gold` / `/premium` - Cek harga market & kurs perak secara real-time.
 * `/combatfame` - Kalkulator optimasi penggunaan tome/fame senjata.
