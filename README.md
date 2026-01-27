@@ -59,7 +59,6 @@ Sistem pendaftaran party interaktif dengan auto-role dan reward terintegrasi.
 Fitur pelacakan pembunuhan dengan visualisasi gambar berkualitas tinggi.
 * `/setup-killboard` - Konfigurasi channel untuk auto-posting killboard guild.
 * `/lastkill` - Menampilkan detail pembunuhan terakhir member/guild secara manual.
-* `/death-shame` - Statistik kematian memalukan/terbanyak untuk evaluasi.
 * `/blacklist` - Daftar pemain/guild yang di-blacklist oleh komunitas.
 
 ### 🛡️ Kategori: Militer & CTA (Call to Arms)
