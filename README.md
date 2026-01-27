@@ -8,36 +8,30 @@
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800">
 </p>
 
-**Mabar Assistant** adalah solusi All-in-One tercanggih untuk manajemen Guild Albion Online. Bot ini bukan sekadar penyedia informasi, melainkan sistem manajemen operasional lengkap berbasis **MongoDB** yang mengintegrasikan Ekonomi Mikro, Kedisiplinan Militer (CTA), Diplomasi (NAP), serta fitur Social Engagement untuk membangun komunitas guild yang lebih solid dan transparan.
+**Mabar Assistant** adalah solusi All-in-One tercanggih untuk manajemen Guild Albion Online. Bot ini bukan sekadar penyedia informasi, melainkan sistem manajemen operasional lengkap berbasis **MongoDB** yang mengintegrasikan Ekonomi Mikro, Kedisiplinan Militer (CTA), Diplomasi (NAP), Killboard Visual Otomatis, serta fitur Social Engagement untuk membangun komunitas guild yang lebih solid dan transparan.
 
 <p align="center">
-
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_11.png?raw=true" alt="Logo Bot MABAR" width="800" height="400">
-
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_11.png?raw=true" alt="Preview Bot MABAR" width="800" height="400">
 </p>
-
-
 
 ## 🛡️ Ingin Bergabung atau Menggunakan Bot Kami?
 
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Bot MABAR" width="100" height="100">
+<img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Guild MABAR" width="100" height="100">
 
 Bot ini dikembangkan khusus untuk Discord kami (**Mabar**).
 
-
-
 Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan Publik server Discord kami:
 
-
-
 [➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](https://discord.gg/h7UcseapeH)
+
 ---
+
 ## 🚀 Fitur Unggulan & Automasi (Update 2026)
-* **Robust Recovery System:** seluruh data pendaftaran party `/konten` tetap terjaga dan aktif secara otomatis meskipun bot atau VPS mengalami restart di tengah jalan.
-* **Automatic Tax & Financial Audit:** bot melakukan perhitungan dan penarikan pajak guild secara berkala untuk menjaga stabilitas kas Bank Guild secara transparan.
-* **Smart Content Stats & Caller Feedback:** Pelacakan otomatis performa mabar (Selesai Manual, Auto-Done, atau Expired) serta sistem rating interaktif bagi member untuk memberikan feedback kepada Caller.
-* **Advanced Scheduling & Giveaways:** terintegrasi memungkinkan pengundian hadiah saldo/item dan pengingat waktu objektif (Castle/Chest) berjalan secara presisi dan terjadwal.
-* **Hybrid Economy System:** Integrasi saldo Cash, Bank Pribadi, dan Bank Guild yang saling terhubung untuk memfasilitasi donasi, subsidi, hingga investasi member.
+* **Visual Killboard Engine:** Generator gambar killboard otomatis dengan statistik Silver dinamis, deteksi "Whale/Juicy Kill", dan notifikasi hype yang seru.
+* **Robust Recovery System:** Seluruh data pendaftaran party `/konten` tetap terjaga otomatis meskipun bot/VPS restart.
+* **Automatic Tax & Audit:** Perhitungan pajak guild dan audit finansial otomatis.
+* **Smart Content Feedback:** Pelacakan performa Caller dengan sistem rating dari member.
+* **Hybrid Economy:** Integrasi saldo Cash, Bank Pribadi, dan Bank Guild yang saling terhubung.
 
 ---
 
@@ -46,18 +40,27 @@ Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Be
 ### ⚔️ Kategori: Pengelolaan Mabar & Konten
 Sistem pendaftaran party interaktif dengan auto-role dan reward terintegrasi.
 * `/konten` - Membuka pendaftaran party (Mabar) otomatis.
-* `/kontenstats` - (BARU) Statistik performa konten guild (Done/Auto/Expired).
+* `/kontenstats` - Statistik performa konten guild (Done/Auto/Expired).
 * `/rankmabar` - Papan peringkat partisipasi & kontribusi member.
-* `/nap` - (NEW) Manajemen Non-Aggression Pact (Daftar Guild kawan mabar).
+* `/avaraid` - (BARU) Manajemen khusus untuk Raid Avalonian Dungeon.
+* `/nap` - Manajemen Non-Aggression Pact (Diplomasi Guild).
 * `/splitloot` - Kalkulator pembagian loot party secara adil.
 * `/regear` - Sistem klaim regear otomatis via Modal UI & Transfer Silver.
-* `/hideout` - Manajemen lokasi otomatis RoA / Outland Rute.
+* `/hideout` & `/hideout-delete` - Manajemen lokasi HQ/HO dan Rute.
 * `/rute` - Informasi rute portal dan rest area tercepat.
 * `/scanner` - Scan zona untuk deteksi aktivitas musuh.
 * `/scout` - Sistem pelaporan scout di lapangan secara real-time.
 * `/jadwal` & `/canceljadwal` - Penjadwalan konten mabar di masa mendatang.
-* `/resetparty` & `/partydelete` - Maintenance data party dalam database.
+* `/partydelete` - Menghapus/Reset data party dalam database.
 * `/done_manual` & `/recover_manual` - Override status party secara manual.
+* `/build` - Berbagi dan menyimpan komposisi build item Albion.
+
+### 💀 Kategori: Killboard & PvP Tracker
+Fitur pelacakan pembunuhan dengan visualisasi gambar berkualitas tinggi.
+* `/setup-killboard` - Konfigurasi channel untuk auto-posting killboard guild.
+* `/lastkill` - Menampilkan detail pembunuhan terakhir member/guild secara manual.
+* `/death-shame` - Statistik kematian memalukan/terbanyak untuk evaluasi.
+* `/blacklist` - Daftar pemain/guild yang di-blacklist oleh komunitas.
 
 ### 🛡️ Kategori: Militer & CTA (Call to Arms)
 Fitur khusus untuk manajemen perang (ZvZ) dan keaktifan militer.
@@ -84,9 +87,8 @@ Manajemen ekonomi guild yang transparan, aman, dan otomatis.
 
 ### 📊 Kategori: Informasi & Albion API
 Data real-time yang ditarik langsung dari server resmi Albion Online.
-* `/roa check` / `/roa-info` - Roa checker Map - info
-* `/albionprofile` - Statistik lengkap karakter (Fame, Kill, Death).
-* `/albionprofile` - Statistik lengkap karakter (Fame, Kill, Death).
+* `/roa` / `/roa-info` - Informasi Roads of Avalon (Map/Tier).
+* `/albionprofile` - Statistik lengkap karakter (Fame, Kill, Death, Ratio).
 * `/price` / `/gold` / `/premium` - Cek harga market & kurs perak secara real-time.
 * `/combatfame` - Kalkulator optimasi penggunaan tome/fame senjata.
 * `/resource` - Data bonus harian kota untuk crafting & gathering.
@@ -102,11 +104,12 @@ Meningkatkan retensi dan aktivitas member di dalam server Discord.
 * `/trivia` - Kuis Albion Online dengan koleksi 500+ pertanyaan.
 * `/gamble`, `/coinflip`, `/dice`, `/kocok`, `/roll` - Game keberuntungan & taruhan.
 * `/lottery` & `/giveaway` - Sistem undian otomatis berhadiah saldo.
-* `/rob` & `/bounty`, `/setbounty` - Fitur interaksi PvP sosial (rampok & buronan).
+* `/rob`, `/bounty`, `/setbounty` - Fitur interaksi PvP sosial (rampok & buronan).
 * `/rps` - Permainan Batu Gunting Kertas klasik.
 * `/albionmeme` - Menampilkan meme terbaru dari subreddit Albion Online.
 * `/confess` - Mengirimkan pesan anonim ke channel tertentu.
 * `/stats` - Statistik perkembangan minigame pribadi.
+* `/randomator` - Generator acak untuk keperluan undian atau keputusan.
 
 ### ⚙️ Kategori: Utilitas & Sistem
 Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
