@@ -8,7 +8,7 @@
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800">
 </p>
 
-**Mabar Assistant** adalah solusi All-in-One tercanggih untuk manajemen Guild Albion Online. Bot ini bukan sekadar penyedia informasi, melainkan sistem manajemen operasional lengkap berbasis **MongoDB** yang mengintegrasikan Ekonomi Mikro, Kedisiplinan Militer (CTA), Diplomasi (NAP), Killboard Visual Otomatis, serta fitur Social Engagement untuk membangun komunitas guild yang lebih solid dan transparan.
+**Mabar Assistant** adalah solusi All-in-One tercanggih untuk manajemen Guild Albion Online. Bot ini bukan sekadar penyedia informasi, melainkan sistem manajemen operasional lengkap berbasis **MongoDB** yang mengintegrasikan Ekonomi Mikro, Kedisiplinan Militer (CTA), Diplomasi (NAP), Killboard Visual Otomatis, Artificial Intelligence, serta fitur Social Engagement untuk membangun komunitas guild yang lebih solid dan transparan.
 
 <p align="center">
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_11.png?raw=true" alt="Preview Bot MABAR" width="800" height="400">
