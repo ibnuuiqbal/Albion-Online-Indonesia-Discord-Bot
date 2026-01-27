@@ -44,9 +44,9 @@ Sistem pendaftaran party interaktif dengan auto-role dan reward terintegrasi.
 * `/rankmabar` - Papan peringkat partisipasi & kontribusi member.
 * `/avaraid` - (BARU) Manajemen khusus untuk Raid Avalonian Dungeon.
 * `/nap` - Manajemen Non-Aggression Pact (Diplomasi Guild).
-* `/splitloot` - Kalkulator pembagian loot party secara adil.
+* `/splitloot` - Kalkulator pembagian loot party secara adil transparan.
 * `/regear` - Sistem klaim regear otomatis via Modal UI & Transfer Silver.
-* `/hideout` & `/hideout-delete` - Manajemen lokasi HQ/HO dan Rute.
+* `/hideout` & `/hideout-delete` - Manajemen Otomatis lokasi HQ/HO ROA dan Rute.
 * `/rute` - Informasi rute portal dan rest area tercepat.
 * `/scanner` - Scan zona untuk deteksi aktivitas musuh.
 * `/scout` - Sistem pelaporan scout di lapangan secara real-time.
@@ -108,7 +108,6 @@ Meningkatkan retensi dan aktivitas member di dalam server Discord.
 * `/albionmeme` - Menampilkan meme terbaru dari subreddit Albion Online.
 * `/confess` - Mengirimkan pesan anonim ke channel tertentu.
 * `/stats` - Statistik perkembangan minigame pribadi.
-* `/randomator` - Generator acak untuk keperluan undian atau keputusan.
 
 ### ⚙️ Kategori: Utilitas & Sistem
 Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
