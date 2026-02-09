@@ -124,11 +124,11 @@ Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
 
 ## ⚙️ Kategori: Beberapa Foto Bot
 
-| **Killboard System** |
-| :---: |
-| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true width="100" height="100") |
-| *Tracking kill/death secara real-time dari API Albion.* |
----
+| **Killboard System** | **Party Management** | **Economy System** |
+| :---: | :---: | :---: |
+| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/party.png?raw=true) | ![Economy](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/economy.png?raw=true) |
+| *Tracking kill/death real-time API Albion.* | *Sistem role-selection untuk party.* | *Manajemen subsidi dan saldo guild.* |
+
 ---
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
