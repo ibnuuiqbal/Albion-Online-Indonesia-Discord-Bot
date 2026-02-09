@@ -121,13 +121,15 @@ Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
 * `/cleanupbounty` / `/claimbounty` - Manajemen sistem buronan.
 
 ---
-### ⚙️ Kategori: Beberapa foto
----
 
-| **Judul Foto 1** | **Judul Foto 2** | **Judul Foto 3** |
+## ⚙️ Kategori: Beberapa Foto Bot
+
+| **Killboard System** | **Party Management** | **Economy System** |
 | :---: | :---: | :---: |
-| ![Deskripsi 1](path/to/foto1.jpg) | ![Deskripsi 2](path/to/foto2.jpg) | ![Deskripsi 3](path/to/foto3.jpg) |
-| *Keterangan tambahan* | *Keterangan tambahan* | *Keterangan tambahan* |
+| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Party](https://via.placeholder.com/400x200?text=Foto+Party+Management) | ![Economy](https://via.placeholder.com/400x200?text=Foto+Economy+System) |
+| *Tracking kill/death secara real-time dari API Albion.* | *Sistem pendaftaran party dengan pemilihan role.* | *Sistem saldo, subsidi, dan daily rewards.* |
+---
+---
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
 Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
