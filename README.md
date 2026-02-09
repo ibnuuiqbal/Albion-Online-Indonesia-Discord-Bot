@@ -121,6 +121,13 @@ Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
 * `/cleanupbounty` / `/claimbounty` - Manajemen sistem buronan.
 
 ---
+### ⚙️ Kategori: Beberapa foto
+---
+
+| **Judul Foto 1** | **Judul Foto 2** | **Judul Foto 3** |
+| :---: | :---: | :---: |
+| ![Deskripsi 1](path/to/foto1.jpg) | ![Deskripsi 2](path/to/foto2.jpg) | ![Deskripsi 3](path/to/foto3.jpg) |
+| *Keterangan tambahan* | *Keterangan tambahan* | *Keterangan tambahan* |
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
 Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
