@@ -124,10 +124,10 @@ Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
 
 ## ⚙️ Kategori: Beberapa Foto Bot
 
-| **Killboard System** | **Party Management** | **Economy System** |
-| :---: | :---: | :---: |
-| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Register](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/register-system.png?raw=true) | ![Economy](https://via.placeholder.com/400x200?text=Foto+Economy+System) |
-| *Tracking kill/death secara real-time dari API Albion.* | *Sistem pendaftaran party dengan pemilihan role.* | *Sistem saldo, subsidi, dan daily rewards.* |
+| **Killboard System** |
+| :---: |
+| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) |
+| *Tracking kill/death secara real-time dari API Albion.* |
 ---
 ---
 ## 🛡️ Lisensi & Kontak Jual/Sewa
