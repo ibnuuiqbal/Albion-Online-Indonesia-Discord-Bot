@@ -126,7 +126,7 @@ Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
 
 | **Killboard System** |
 | :---: |
-| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) |
+| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true width="100" height="100") |
 | *Tracking kill/death secara real-time dari API Albion.* |
 ---
 ---
