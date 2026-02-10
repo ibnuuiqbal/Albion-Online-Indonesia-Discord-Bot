@@ -27,11 +27,15 @@ Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Be
 ---
 
 ## 🚀 Fitur Unggulan & Automasi (Update 2026)
-* **Visual Killboard Engine:** Generator gambar killboard otomatis dengan statistik Silver dinamis, deteksi "Whale/Juicy Kill", dan notifikasi hype yang seru.
-* **Robust Recovery System:** Seluruh data pendaftaran party `/konten` tetap terjaga otomatis meskipun bot/VPS restart.
-* **Automatic Tax & Audit:** Perhitungan pajak guild dan audit finansial otomatis.
-* **Smart Content Feedback:** Pelacakan performa Caller dengan sistem rating dari member.
-* **Hybrid Economy:** Integrasi saldo Cash, Bank Pribadi, dan Bank Guild yang saling terhubung.
+Bot ini ditenagai oleh *background scheduler* canggih yang berjalan secara otonom 24/7 untuk memastikan guild berjalan lancar tanpa campur tangan manual terus-menerus:
+
+* **🛡️ Smart Role Sync & Strike System:** Otomatis mendeteksi jika member keluar guild in-game dan mencabut role Discord mereka. Dilengkapi *Safety Valve* dan *Strike System* (toleransi 5x gagal) untuk mencegah pencabutan role massal saat API Albion sedang *down*, serta fitur auto-rename jika member mengganti *nickname* in-game.
+* **⚔️ Real-time Parallel Killboard:** Mengambil data Killboard dari API Albion secara simultan setiap 15 detik, memproses "Whale/Juicy Kill", dan melakukan *auto-posting* visualisasi gambar ke channel Discord.
+* **🧠 AI Albion Insight Broadcaster:** Menyiarkan *lore*, fakta rahasia, dan panduan dunia Albion secara otomatis dengan durasi acak (6-12 jam) menggunakan integrasi AI.
+* **⏱️ Interactive Smart Alarm:** Sistem pengingat otomatis yang memanggil user secara langsung dengan tampilan *embed* visual saat waktu *timer* atau objektif telah habis.
+* **🔄 Robust Recovery System:** Melakukan pembersihan tiket kadaluwarsa dan pemulihan data pendaftaran party secara otomatis setiap 30 menit, menjaga data tetap aman meskipun bot atau VPS melakukan *restart*.
+* **📅 Scheduled Guild Events:** Automasi rotasi pemilihan Role MVP setiap hari Minggu, Giveaway harian di jam 17:00, dan pemotongan pajak (*automatic tax*) setiap 4 hari sekali.
+* **Hybrid Economy:** Integrasi saldo Cash, Bank Pribadi, dan Bank Guild yang saling terhubung untuk ekosistem finansial internal Discord.
 
 ---
 
