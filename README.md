@@ -37,88 +37,90 @@ Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Be
 
 ## 📜 Daftar Lengkap Slash Commands (Update 2026)
 
-### ⚔️ Kategori: Pengelolaan Mabar & Konten
-Sistem pendaftaran party interaktif dengan auto-role dan reward terintegrasi.
-* `/konten` - Membuka pendaftaran party (Mabar) otomatis.
-* `/kontenstats` - Statistik performa konten guild (Done/Auto/Expired).
-* `/rankmabar` - Papan peringkat partisipasi & kontribusi member.
-* `/avaraid` - (BARU) Manajemen khusus untuk Raid Avalonian Dungeon.
-* `/nap` - Manajemen Non-Aggression Pact (Diplomasi Guild).
-* `/splitloot` - Kalkulator pembagian loot party secara adil transparan.
-* `/regear` - Sistem klaim regear otomatis via Modal UI & Transfer Silver.
-* `/hideout` & `/hideout-delete` - Manajemen Otomatis lokasi HQ/HO ROA dan Rute.
-* `/rute` - Informasi rute portal dan rest area tercepat.
-* `/scanner` - Scan zona untuk deteksi aktivitas musuh.
-* `/scout` - Sistem pelaporan scout di lapangan secara real-time.
-* `/jadwal` & `/canceljadwal` - Penjadwalan konten mabar di masa mendatang.
-* `/partydelete` - Menghapus/Reset data party dalam database.
-* `/done_manual` & `/recover_manual` - Override status party secara manual.
-* `/build` - Berbagi dan menyimpan komposisi build item Albion.
+### ⚔️ Kategori: Pengelolaan Mabar & Party
+Command untuk open konten, registrasi, dan pengelolaan party.
+* `/konten` — Command utama untuk open konten party.
+* `/kontenstats` — Statistik performa konten.
+* `/rankmabar` — Lihat ranking dan statistik partisipasi internal.
+* `/hideout` — Update rute hideout + Core Info.
+* `/splitloot` — Hitung pembagian loot party.
+* `/nap` — Kelola guild kawan (Non-Aggression Pact).
+* `/regear` — Request Regear item.
 
-### 💀 Kategori: Killboard & PvP Tracker
-Fitur pelacakan pembunuhan dengan visualisasi gambar berkualitas tinggi.
-* `/setup-killboard` - Konfigurasi channel untuk auto-posting killboard guild.
-* `/lastkill` - Menampilkan detail pembunuhan terakhir member/guild secara manual.
-* `/blacklist` - Daftar pemain/guild yang di-blacklist oleh komunitas.
+### 📊 Kategori: Analisis Guild & PvP Tracker
+Command untuk cek killboard, statistik guild, dan data kompetitif.
+* `/albionprofile` — Cek profile karakter & statistik Fame.
+* `/roa` / `/roa info` — Scanner Map Road of Avalon.
+* `/avaraid` — Panduan Raid Boss Avalonian.
+* `/scout` — Kirim laporan scout wilayah.
+* `/season` — Cek status Season dan reward.
 
-### 🛡️ Kategori: Militer & CTA (Call to Arms)
-Fitur khusus untuk manajemen perang (ZvZ) dan keaktifan militer.
-* `/cta-rank` - Peringkat keaktifan member dalam event CTA.
-* `/cta-history` - Riwayat partisipasi CTA individu maupun guild.
-* `/cta-check` - Pengecekan kehadiran member saat jam CTA dimulai.
-* `/setcaller` - Penentuan Caller utama dengan sistem rating kontribusi.
-* `/setpoint`, `/clear-point` - Manajemen poin kontribusi member.
+### 💰 Kategori: Finansial & Banking
+Command untuk mengelola saldo, transaksi virtual, dan investasi.
+* `/subsidi` — Subsidi silver untuk member.
+* `/balance` — Cek saldo Cash, Bank, dan Deposit/Withdraw.
+* `/daily` — Ambil bonus harian.
+* `/invest` — Investasikan & Claim silver untuk bunga (24 jam).
+* `/donasi` — Donasikan cash ke bank guild.
+* `/guildbalance` — Lihat saldo bank guild (Treasury).
+* `/siphon` — Managemen Siphoned Energy.
+* `/rob` — Merampok user lain (berisiko gagal/denda).
+* `/satpam` — Sewa Satpam untuk perlindungan rob.
 
-### 💰 Kategori: Keuangan & Bank Guild
-Manajemen ekonomi guild yang transparan, aman, dan otomatis.
-* `/balance` / `/profile` - Cek saldo Cash (dompet) & Bank pribadi.
-* `/deposit` / `/withdraw` - Manajemen simpanan bank pribadi.
-* `/transfer` - Kirim silver aman antar anggota guild.
-* `/donasi` - Kontribusi perak langsung ke kas Bank Guild.
-* `/guildbalance` & `/guildroster` - Status keuangan & list member guild terbaru.
-* `/subsidi` - Distribusi dana bantuan guild untuk member.
-* `/tax` - Pengaturan persentase pajak transaksi internal guild.
-* `/invest` & `/claiminvest` - Sistem investasi perak dengan bunga harian.
-* `/history` - Log riwayat lengkap seluruh transaksi finansial user.
-* `/siphon` - Manajemen deposit dan pengecekan Siphoned Energy.
-* `/bayar`, `/lunas`, `/ngutang`, `/tagih`, `/cek_piutang` - Sistem manajemen hutang piutang member.
-* `/setbalance` & `/sweepbalance` - Tool administratif untuk audit/reset saldo.
+### 🤝 Kategori: Koperasi & Simpan Pinjam
+Sistem manajemen hutang-piutang antar anggota Guild.
+* `/hutang` — Menu utama hutang (Bayar, Tagih, Cek, Lunas).
 
-### 📊 Kategori: Informasi & Albion API
-Data real-time yang ditarik langsung dari server resmi Albion Online.
-* `/roa` / `/roa-info` - Informasi Roads of Avalon (Map/Tier).
-* `/albionprofile` - Statistik lengkap karakter (Fame, Kill, Death, Ratio).
-* `/price` / `/gold` / `/premium` - Cek harga market & kurs perak secara real-time.
-* `/combatfame` - Kalkulator optimasi penggunaan tome/fame senjata.
-* `/resource` - Data bonus harian kota untuk crafting & gathering.
-* `/banditstatus` - Update otomatis event Faction Warfare (Bandit).
-* `/gvgstatus`, `/season`, `/topterritory` - Monitoring kompetisi guild secara global.
-* `/randomfact` - Fakta unik dan edukatif seputar Albion Online.
-* `/timezone` - Konversi waktu WIB ke UTC (Waktu Server Albion).
+### 🎯 Kategori: Minigame & Bounty
+Command untuk petualangan, mini-game, dan sistem perburuan.
+* `/adventure` — Petualangan RPG dengan reward.
+* `/confess` — Kirim pesan rahasia anonim.
+* `/fishing` — Minigame memancing Albion.
+* `/trivia` — Mainkan trivia bertema Albion.
+* `/gamble` — Slot machine mini-game.
+* `/kocok` — Command kocok acak (nama/angka).
+* `/albionmeme` — Meme Albion dari Reddit.
+* `/stats` — Statistik permainan kamu.
+* `/bounty` — Cek daftar buronan (bounty) aktif.
 
-### 🎯 Kategori: Minigame & Entertainment
-Meningkatkan retensi dan aktivitas member di dalam server Discord.
-* `/adventure` / `/fishing` - Roleplay petualangan dan memancing ikan Albion.
-* `/quest`, `/work`, `/daily` - Aktivitas harian untuk menghasilkan silver bot.
-* `/trivia` - Kuis Albion Online dengan koleksi 500+ pertanyaan.
-* `/gamble`, `/coinflip`, `/dice`, `/kocok`, `/roll` - Game keberuntungan & taruhan.
-* `/lottery` & `/giveaway` - Sistem undian otomatis berhadiah saldo.
-* `/rob`, `/bounty`, `/setbounty` - Fitur interaksi PvP sosial (rampok & buronan).
-* `/rps` - Permainan Batu Gunting Kertas klasik.
-* `/albionmeme` - Menampilkan meme terbaru dari subreddit Albion Online.
-* `/confess` - Mengirimkan pesan anonim ke channel tertentu.
-* `/stats` - Statistik perkembangan minigame pribadi.
+### ⭐ Kategori: Fitur Special
+Command untuk informasi game, bot, dan user.
+* `/combatfame` — Fame Kalkulator.
+* `/price` — Cek harga item Albion (Market Data).
+* `/gold` — Cek harga Gold Albion saat ini.
+* `/premium` — Cek harga Premium Albion.
+* `/resource` — Informasi Bonus Crafting Kota.
+* `/build` — Random Build Albion / Simpan Build.
+* `/rute` — Cek rute farming/ganking terbaik.
+* `/userinfo` — Info detail user Discord.
+* `/profile` — Info Profile akun bot kamu.
+* `/randomfact` — Fakta acak Albion Online.
+* `/timezone` — Cek waktu UTC saat ini.
+* `/timer` — Sistem pengingat waktu & objective.
+* `/roll` — Roll dadu 1–100.
+* `/poll` — Membuat polling suara.
+* `/saran` — Berikan saran fitur ke developer bot.
+* `/register` — Daftarkan nickname Albion ke bot.
+* `/serverinfo` — Informasi server Discord ini.
 
-### ⚙️ Kategori: Utilitas & Sistem
-Fitur inti untuk menjaga ketertiban, pendaftaran, dan fungsi bot.
-* `/register` & `/sendregister` - Sistem integrasi pendaftaran nickname in-game.
-* `/mytimers` & `/timer` - Pengingat waktu konten pribadi maupun guild.
-* `/userinfo` / `/serverinfo` - Informasi mendalam mengenai user & server.
-* `/help` / `/info` / `/ping` - Pusat bantuan, status teknis, dan latensi bot.
-* `/saran` / `/poll` / `/chat` - Fitur feedback, voting, dan interaksi bot.
-* `/satpam` - Sistem logging moderasi dan proteksi server.
-* `/dbfix` - Tool pemeliharaan struktur database MongoDB.
-* `/cleanupbounty` / `/claimbounty` - Manajemen sistem buronan.
+### ⚙️ Kategori: Moderasi & Staff Tools
+⚠️ **Khusus Role Staff/Admin** untuk manajemen bot dan guild.
+
+**🛡️ Admin Utama**
+* `/admin economy setbalance` — Atur saldo user/guild (Owner).
+* `/admin economy tax` — Potong pajak massal.
+* `/admin economy sweep` — Bersihkan saldo non-member.
+* `/admin user point` — Kelola poin user (Give/Set/Remove).
+* `/admin user caller` — Kelola status caller.
+* `/admin blacklist` — Tambah/Hapus user blacklist.
+
+**🛠️ Guild Management**
+* `/setup-killboard` — Konfigurasi channel killboard.
+* `/cta` — Absensi CTA & Ping otomatis.
+* `/jadwal` — Kelola jadwal mabar guild.
+* `/giveaway` — Mulai giveaway silver otomatis.
+* `/sendregister` — Kirim ulang panel registrasi.
+* `/chat` — Kirim pesan menggunakan bot.
 
 ---
 
