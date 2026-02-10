@@ -90,6 +90,7 @@ Command untuk petualangan, mini-game, dan sistem perburuan.
 ### ⭐ Kategori: Fitur Special
 Command untuk informasi game, bot, dan user.
 * `/combatfame` — Fame Kalkulator.
+* `/lore` — Sejarah Albion Online.
 * `/price` — Cek harga item Albion (Market Data).
 * `/gold` — Cek harga Gold Albion saat ini.
 * `/premium` — Cek harga Premium Albion.
