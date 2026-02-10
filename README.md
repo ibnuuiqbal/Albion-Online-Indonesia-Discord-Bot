@@ -54,7 +54,7 @@ Command untuk open konten, registrasi, dan pengelolaan party.
 ### 📊 Kategori: Analisis Guild & PvP Tracker
 Command untuk cek killboard, statistik guild, dan data kompetitif.
 * `/albionprofile` — Cek profile karakter & statistik Fame.
-* `/roa` / `/roa info` — Scanner Map Road of Avalon.
+* `/roa` — Scanner Map Road of Avalon.
 * `/avaraid` — Panduan Raid Boss Avalonian.
 * `/scout` — Kirim laporan scout wilayah.
 * `/season` — Cek status Season dan reward.
