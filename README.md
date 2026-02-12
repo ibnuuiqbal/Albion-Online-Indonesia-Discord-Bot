@@ -139,7 +139,7 @@ Command untuk informasi game, bot, dan user.
 | **📢 Party Management** | **⭐ Rating System** |
 | :---: | :---: |
 | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_12.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true" width="100%"> |
-| *Manajemen Ping Konten* | *Sistem Rating & Feedback Leader* |
+| *Manajemen Ping Konten* | *Sistem Rating & Feedback Leader / Party* |
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
 Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
