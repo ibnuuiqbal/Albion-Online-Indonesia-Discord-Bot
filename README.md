@@ -127,16 +127,17 @@ Command untuk informasi game, bot, dan user.
 * `/sendregister` — Kirim ulang panel registrasi.
 * `/chat` — Kirim pesan menggunakan bot.
 
----
+## 📸 Fitur Utama & Galeri
 
-## ⚙️ Kategori: Beberapa Foto Bot
+| **⚔️ Killboard System** | **📝 Register System** |
+| :---: | :---: |
+| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Register](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/register-system.png?raw=true) |
+| *Real-time Kill/Death tracking via Albion API.* | *Sistem Registrasi & Verifikasi IGN Otomatis.* |
 
-| **Killboard System** | **Register System** | **Party System** | **Party System** |
-| :---: | :---: | :---: |
-| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Register](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/register-system.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_12.png?raw=true) | ![Party 2](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true) |
-| *Tracking kill/death real-time API Albion.* | *Sistem Register Albion + IGN.* | *Manajemen Ping Konten.* | *Management Rating Sistem.* |
-
----
+| **📢 Party Management** | **⭐ Rating System** |
+| :---: | :---: |
+| ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_12.png?raw=true) | ![Rating](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true) |
+| *Manajemen Ping & Organisasi Party.* | *Sistem Rating & Feedback Leader.* |
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
 Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
