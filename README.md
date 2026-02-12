@@ -131,10 +131,10 @@ Command untuk informasi game, bot, dan user.
 
 ## ⚙️ Kategori: Beberapa Foto Bot
 
-| **Killboard System** | **Party Management** | **Economy System** |
+| **Killboard System** | **Register System** | **Party System** | **Party System** |
 | :---: | :---: | :---: |
-| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/party.png?raw=true) | ![Economy](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/economy.png?raw=true) |
-| *Tracking kill/death real-time API Albion.* | *Sistem role-selection untuk party.* | *Manajemen subsidi dan saldo guild.* |
+| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Register](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/register-system.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_12.png?raw=true) | ![Party 2](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true) |
+| *Tracking kill/death real-time API Albion.* | *Sistem Register Albion + IGN.* | *Manajemen Ping Konten.* | *Management Rating Sistem.* |
 
 ---
 ## 🛡️ Lisensi & Kontak Jual/Sewa
