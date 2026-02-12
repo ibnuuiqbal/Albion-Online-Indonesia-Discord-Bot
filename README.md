@@ -121,7 +121,7 @@ Command untuk informasi game, bot, dan user.
 
 **🛠️ Guild Management**
 * `/setup-killboard` — Konfigurasi channel killboard.
-* `/cta` — Absensi CTA & Ping otomatis.
+* `/cta` — Lacak absensi cta+ Auto DM ke orang yang tidak ikut cta.
 * `/jadwal` — Kelola jadwal mabar guild.
 * `/giveaway` — Mulai giveaway silver otomatis.
 * `/sendregister` — Kirim ulang panel registrasi.
