@@ -5,7 +5,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-v16.x+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
 
 <p align="center">
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800">
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800">
 </p>
 
 **Mabar Assistant** adalah solusi All-in-One tercanggih untuk manajemen Guild Albion Online. Bot ini bukan sekadar penyedia informasi, melainkan sistem manajemen operasional lengkap yang mengintegrasikan Ekonomi Mikro, Kedisiplinan Militer (CTA), Diplomasi (NAP), Killboard Visual Otomatis, Artificial Intelligence, Hideout ROA rute otomatis, serta fitur Social Engagement untuk membangun komunitas guild yang lebih solid dan transparan.
@@ -16,7 +16,7 @@
 
 ## 🛡️ Ingin Bergabung atau Menggunakan Bot Kami?
 
-<img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/mabar.png?raw=true" alt="Logo Guild MABAR" width="100" height="100">
+<img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/bag.png?raw=true" alt="Logo Guild MABAR" width="100" height="100">
 
 Bot ini dikembangkan khusus untuk Discord kami (**Mabar**).
 
@@ -141,7 +141,7 @@ Command untuk informasi game, bot, dan user.
 
 | **📢 Party Management** | **⭐ Rating System** |
 | :---: | :---: |
-| <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_12.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true" width="100%"> |
+| <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_13.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true" width="100%"> |
 | *Manajemen Ping Konten* | *Sistem Rating & Feedback Leader / Party* |
 
 ## 🛡️ Lisensi & Kontak Jual/Sewa
