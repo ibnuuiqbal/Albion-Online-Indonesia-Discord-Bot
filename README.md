@@ -8,7 +8,7 @@
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800">
 </p>
 
-**Mabar Assistant** adalah solusi All-in-One tercanggih untuk manajemen Guild Albion Online. Bot ini bukan sekadar penyedia informasi, melainkan sistem manajemen operasional lengkap yang mengintegrasikan Ekonomi Mikro, Kedisiplinan Militer (CTA), Diplomasi (NAP), Killboard Visual Otomatis, Artificial Intelligence, Hideout ROA rute otomatis ,serta fitur Social Engagement untuk membangun komunitas guild yang lebih solid dan transparan.
+**Mabar Assistant** adalah solusi All-in-One tercanggih untuk manajemen Guild Albion Online. Bot ini bukan sekadar penyedia informasi, melainkan sistem manajemen operasional lengkap yang mengintegrasikan Ekonomi Mikro, Kedisiplinan Militer (CTA), Diplomasi (NAP), Killboard Visual Otomatis, Artificial Intelligence, Hideout ROA rute otomatis, serta fitur Social Engagement untuk membangun komunitas guild yang lebih solid dan transparan.
 
 <p align="center">
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/Screenshot_11.png?raw=true" alt="Preview Bot MABAR" width="800" height="400">
@@ -29,6 +29,7 @@ Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Be
 ## 🚀 Fitur Unggulan & Automasi (Update 2026)
 Bot ini ditenagai oleh *background scheduler* canggih yang berjalan secara otonom 24/7 untuk memastikan guild berjalan lancar tanpa campur tangan manual terus-menerus:
 
+* **🔨 Real-time Auction & Coaching System:** Sistem **Lelang (Auction)** interaktif untuk jual beli item langka antar member/guild, serta modul **VOD Review** untuk evaluasi gameplay member oleh Officer/Shotcaller.
 * **🛡️ Smart Role Sync & Strike System:** Otomatis mendeteksi jika member keluar guild in-game dan mencabut role Discord mereka. Dilengkapi *Safety Valve* dan *Strike System* (toleransi 5x gagal) untuk mencegah pencabutan role massal saat API Albion sedang *down*, serta fitur auto-rename jika member mengganti *nickname* in-game.
 * **⚔️ Real-time Parallel Killboard:** Mengambil data Killboard dari API Albion secara simultan setiap 15 detik, memproses "Whale/Juicy Kill", dan melakukan *auto-posting* visualisasi gambar ke channel Discord.
 * **🧠 AI Albion Insight Broadcaster:** Menyiarkan *lore*, fakta rahasia, dan panduan dunia Albion secara otomatis dengan durasi acak (6-12 jam) menggunakan integrasi AI.
@@ -52,7 +53,8 @@ Command untuk open konten, registrasi, dan pengelolaan party.
 * `/regear` — Request Regear item.
 
 ### 📊 Kategori: Analisis Guild & PvP Tracker
-Command untuk cek killboard, statistik guild, dan data kompetitif.
+Command untuk cek killboard, statistik guild, evaluasi gameplay, dan data kompetitif.
+* `/vods` — 📹 Submit VOD gameplay untuk direview Officer.
 * `/albionprofile` — Cek profile karakter & statistik Fame.
 * `/roa` — Scanner Map Road of Avalon.
 * `/avaraid` — Panduan Raid Boss Avalonian.
@@ -60,7 +62,8 @@ Command untuk cek killboard, statistik guild, dan data kompetitif.
 * `/season` — Cek status Season dan reward.
 
 ### 💰 Kategori: Finansial & Banking
-Command untuk mengelola saldo, transaksi virtual, dan investasi.
+Command untuk lelang, mengelola saldo, transaksi virtual, dan investasi.
+* `/lelang` — 🔨 Mulai lelang item atau ikut bidding (tawar harga).
 * `/subsidi` — Subsidi silver untuk member.
 * `/balance` — Cek saldo Cash, Bank, dan Deposit/Withdraw.
 * `/daily` — Ambil bonus harian.
@@ -73,7 +76,7 @@ Command untuk mengelola saldo, transaksi virtual, dan investasi.
 
 ### 🤝 Kategori: Koperasi & Simpan Pinjam
 Sistem manajemen hutang-piutang antar anggota Guild.
-* `/hutang` — Menu utama hutang (Bayar, Tagih, Cek, Lunas).
+* `/hutang` — Menu utama hutang (Ajukan, Bayar, Tagih, Cek, Lunas).
 
 ### 🎯 Kategori: Minigame & Bounty
 Command untuk petualangan, mini-game, dan sistem perburuan.
@@ -121,7 +124,7 @@ Command untuk informasi game, bot, dan user.
 
 **🛠️ Guild Management**
 * `/setup-killboard` — Konfigurasi channel killboard.
-* `/cta` — Lacak absensi cta+ Auto DM ke orang yang tidak ikut cta.
+* `/cta` — Lacak absensi CTA & Ping otomatis.
 * `/jadwal` — Kelola jadwal mabar guild.
 * `/giveaway` — Mulai giveaway silver otomatis.
 * `/sendregister` — Kirim ulang panel registrasi.
@@ -140,6 +143,7 @@ Command untuk informasi game, bot, dan user.
 | :---: | :---: |
 | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_12.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true" width="100%"> |
 | *Manajemen Ping Konten* | *Sistem Rating & Feedback Leader / Party* |
+
 ## 🛡️ Lisensi & Kontak Jual/Sewa
 
 Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
