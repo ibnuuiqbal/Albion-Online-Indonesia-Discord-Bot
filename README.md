@@ -150,8 +150,9 @@ Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional 
 
 * **Sewa Bulanan:** Instalasi cepat di server Anda tanpa perlu ribet urus VPS.
 * **Beli Source Code:** Hak milik penuh atas seluruh file, bebas modifikasi, dan hosting mandiri.
+* **Versi Gratis (Open Source):** Saat ini versi bot gratisan sedang dalam tahap **pengembangan aktif**. Silakan hubungi kami atau pantau server Discord kami untuk informasi perilisannya.
 
-**Tertarik? Hubungi Lead Developer:**
+**Tertarik atau ingin menunggu versi gratis? Hubungi Lead Developer:**
 [➡️ **GABUNG SERVER DISCORD MABAR** ⬅️](https://discord.gg/h7UcseapeH)
 
 ---
