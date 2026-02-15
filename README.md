@@ -92,6 +92,7 @@ Command untuk petualangan, mini-game, dan sistem perburuan.
 
 ### ⭐ Kategori: Fitur Special
 Command untuk informasi game, bot, dan user.
+* `/play` — 🎵 **Sistem Musik Albion (Premium)**: Musik, Skip, Queue, Shuffle, hingga Autoplay.
 * `/combatfame` — Fame Kalkulator.
 * `/lore` — Sejarah Albion Online.
 * `/price` — Cek harga item Albion (Market Data).
