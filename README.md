@@ -133,10 +133,10 @@ Command untuk informasi game, bot, dan user.
 
 ## 📸 Galeri Fitur Bot
 
-| **⚔️ Killboard System** | **📝 Register System** |
-| :---: | :---: |
-| <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/register-system.png?raw=true" width="100%"> |
-| *Tracking K/D Real-time (Albion API)* | *Sistem Registrasi & Verifikasi IGN* |
+| **⚔️ Killboard System** | **📝 Register System** | **📝 Market System** | **📝 Market System** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/register-system.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_24.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_25.png?raw=true" width="100%"> | 
+| *Tracking K/D Real-time (Albion API)* | *Sistem Registrasi & Verifikasi IGN* | *📝 Market System* | *📝 Market System* |
 
 <br>
 
