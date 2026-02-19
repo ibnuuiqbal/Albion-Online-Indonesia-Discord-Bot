@@ -3,6 +3,7 @@
 [![Status Bot](https://img.shields.io/badge/Status-Aktif%20di%20Discord-4E9A06?style=for-the-badge&logo=discord)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
 [![Lisensi](https://img.shields.io/badge/License-Proprietary%20(Private)-red?style=for-the-badge)](https://github.com/ibnuuiqbal/Albion-Online-Indonesia-Discord-Bot)
 [![Node.js](https://img.shields.io/badge/Node.js-v16.x+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![Website](https://img.shields.io/badge/Website-albionindo.my.id-blue?style=for-the-badge&logo=google-chrome)](https://albionindo.my.id/bot/)
 
 <p align="center">
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/bannerawal.png?raw=true" alt="Logo Bot MABAR" width="800">
@@ -20,9 +21,9 @@
 
 Bot ini dikembangkan khusus untuk Discord kami (**Mabar**).
 
-Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Bersama** atau ingin melihat bot ini beraksi, silakan bergabung dengan Publik server Discord kami:
+Kami menyambut pemain Albion Online lainnya! Jika Anda tertarik untuk **Mabar Bersama**, ingin melihat bot ini beraksi, atau membaca dokumentasi lengkapnya, silakan kunjungi website resmi kami atau bergabung ke server Discord Publik kami:
 
-[➡️ **KLIK DI SINI UNTUK GABUNG SERVER DISCORD KAMI** ⬅️](https://discord.gg/h7UcseapeH)
+🌐 **[KUNJUNGI WEBSITE RESMI BOT MABAR](https://albionindo.my.id/bot/)** 💬 **[GABUNG SERVER DISCORD KAMI](https://discord.gg/h7UcseapeH)**
 
 ---
 
@@ -153,11 +154,12 @@ Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional 
 * **Beli Source Code:** Hak milik penuh atas seluruh file, bebas modifikasi, dan hosting mandiri.
 * **Versi Gratis (Open Source):** Saat ini versi bot gratisan sedang dalam tahap **pengembangan aktif**. Silakan hubungi kami atau pantau server Discord kami untuk informasi perilisannya.
 
-**Tertarik atau ingin menunggu versi gratis? Hubungi Lead Developer:**
-[➡️ **GABUNG SERVER DISCORD MABAR** ⬅️](https://discord.gg/h7UcseapeH)
+**Tertarik, butuh info lebih lanjut, atau ingin menunggu versi gratis?**
+🌐 **[Kunjungi Website Resmi: albionindo.my.id/bot/](https://albionindo.my.id/bot/)** 💬 **[Gabung Server Discord MABAR](https://discord.gg/h7UcseapeH)**
 
 ---
 <p align="center">
   Dibuat dengan ❤️ oleh <strong>Ibnuuiqbal (JokoSmilch)</strong><br>
-  <i>Inspirasi: Temen Assistance oleh pxndameong & Freezer Cool</i>
+  <i>Inspirasi: Temen Assistance oleh pxndameong & Freezer Cool</i><br>
+  <a href="https://albionindo.my.id">albionindo.my.id</a>
 </p>
