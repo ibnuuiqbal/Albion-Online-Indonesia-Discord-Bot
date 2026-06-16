@@ -156,6 +156,7 @@ Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional 
 
 **Tertarik, butuh info lebih lanjut, atau ingin menunggu versi gratis?**
 🌐 **[Kunjungi Website Resmi: albionindo.my.id/bot/](https://albionindo.my.id/bot/)** 💬 **[Gabung Server Discord MABAR](https://discord.gg/h7UcseapeH)**
+🌐 **[Facebook Group ](https://www.facebook.com/groups/1058594912101668)** 
 
 ---
 <p align="center">
