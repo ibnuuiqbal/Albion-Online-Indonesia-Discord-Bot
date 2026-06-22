@@ -41,126 +41,126 @@ Bot ini ditenagai oleh *background scheduler* canggih yang berjalan secara otono
 
 ---
 
-## 📜 Daftar Lengkap Slash Commands (Update 2026)
+## 📜 DAFTAR LENGKAP SLASH COMMANDS
 
-### ⚔️ Kategori: Pengelolaan Mabar & Party
-Command untuk open konten, registrasi, dan pengelolaan party.
-* `/konten` — Command utama untuk open konten party.
-* `/kontenstats` — Statistik performa konten.
-* `/rankmabar` — Lihat ranking dan statistik partisipasi internal.
-* `/hideout` — Update rute hideout + Core Info.
-* `/splitloot` — Hitung pembagian loot party.
-* `/nap` — Kelola guild kawan (Non-Aggression Pact).
-* `/regear` — Request Regear item.
-
-### 📊 Kategori: Analisis Guild & PvP Tracker
-Command untuk cek killboard, statistik guild, evaluasi gameplay, dan data kompetitif.
-* `/vods` — 📹 Submit VOD gameplay untuk direview Officer.
-* `/albionprofile` — Cek profile karakter & statistik Fame.
-* `/roa` — Scanner Map Road of Avalon.
-* `/avaraid` — Panduan Raid Boss Avalonian.
-* `/scout` — Kirim laporan scout wilayah.
-* `/season` — Cek status Season dan reward.
-
-### 💰 Kategori: Finansial & Banking
-Command untuk lelang, mengelola saldo, transaksi virtual, dan investasi.
-* `/lelang` — 🔨 Mulai lelang item atau ikut bidding (tawar harga).
-* `/subsidi` — Subsidi silver untuk member.
-* `/balance` — Cek saldo Cash, Bank, dan Deposit/Withdraw.
-* `/daily` — Ambil bonus harian.
-* `/invest` — Investasikan & Claim silver untuk bunga (24 jam).
-* `/donasi` — Donasikan cash ke bank guild.
-* `/guildbalance` — Lihat saldo bank guild (Treasury).
-* `/siphon` — Managemen Siphoned Energy.
-* `/rob` — Merampok user lain (berisiko gagal/denda).
-* `/satpam` — Sewa Satpam untuk perlindungan rob.
-
-### 🤝 Kategori: Koperasi & Simpan Pinjam
-Sistem manajemen hutang-piutang antar anggota Guild.
-* `/hutang` — Menu utama hutang (Ajukan, Bayar, Tagih, Cek, Lunas).
-
-### 🎯 Kategori: Minigame & Bounty
-Command untuk petualangan, mini-game, dan sistem perburuan.
-* `/adventure` — Petualangan RPG dengan reward.
-* `/confess` — Kirim pesan rahasia anonim.
-* `/fishing` — Minigame memancing Albion.
-* `/trivia` — Mainkan trivia bertema Albion.
-* `/gamble` — Slot machine mini-game.
-* `/kocok` — Command kocok acak (nama/angka).
-* `/albionmeme` — Meme Albion dari Reddit.
-* `/stats` — Statistik permainan kamu.
-* `/bounty` — Cek daftar buronan (bounty) aktif.
-
-### ⭐ Kategori: Fitur Special
-Command untuk informasi game, bot, dan user.
-* `/play` — 🎵 **Sistem Musik Albion (Premium)**: Musik, Skip, Queue, Shuffle, hingga Autoplay.
-* `/combatfame` — Fame Kalkulator.
-* `/lore` — Sejarah Albion Online.
-* `/price` — Cek harga item Albion (Market Data).
-* `/gold` — Cek harga Gold Albion saat ini.
-* `/premium` — Cek harga Premium Albion.
-* `/resource` — Informasi Bonus Crafting Kota.
-* `/build` — Random Build Albion / Simpan Build.
-* `/rute` — Cek rute farming/ganking terbaik.
-* `/userinfo` — Info detail user Discord.
-* `/profile` — Info Profile akun bot kamu.
-* `/randomfact` — Fakta acak Albion Online.
-* `/timezone` — Cek waktu UTC saat ini.
-* `/timer` — Sistem pengingat waktu & objective.
-* `/roll` — Roll dadu 1–100.
-* `/poll` — Membuat polling suara.
-* `/saran` — Berikan saran fitur ke developer bot.
-* `/register` — Daftarkan nickname Albion ke bot.
-* `/serverinfo` — Informasi server Discord ini.
-
-### ⚙️ Kategori: Moderasi & Staff Tools
-⚠️ **Khusus Role Staff/Admin** untuk manajemen bot dan guild.
-
-**🛡️ Admin Utama**
-* `/admin economy setbalance` — Atur saldo user/guild (Owner).
-* `/admin economy tax` — Potong pajak massal.
-* `/admin economy sweep` — Bersihkan saldo non-member.
-* `/admin user point` — Kelola poin user (Give/Set/Remove).
-* `/admin user caller` — Kelola status caller.
-* `/admin blacklist` — Tambah/Hapus user blacklist.
-
-**🛠️ Guild Management**
-* `/setup-killboard` — Konfigurasi channel killboard.
-* `/cta` — Lacak absensi CTA & Ping otomatis.
-* `/jadwal` — Kelola jadwal mabar guild.
-* `/giveaway` — Mulai giveaway silver otomatis.
-* `/sendregister` — Kirim ulang panel registrasi.
-* `/chat` — Kirim pesan menggunakan bot.
-
-## 📸 Galeri Fitur Bot
-
-| **⚔️ Killboard System** | **📝 Register System** | **📝 Market System** | **📝 Market System** |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/register-system.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_24.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_25.png?raw=true" width="100%"> | 
-| *Tracking K/D Real-time (Albion API)* | *Sistem Registrasi & Verifikasi IGN* | *📝 Market System* | *📝 Market System* |
+<details>
+<summary><b>📋 TABLE OF CONTENTS — Klik untuk navigasi cepat ke semua command</b></summary>
 
 <br>
 
-| **📢 Party Management** | **⭐ Rating System** |
-| :---: | :---: |
-| <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_13.png?raw=true" width="100%"> | <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/Screenshot_8.png?raw=true" width="100%"> |
-| *Manajemen Ping Konten* | *Sistem Rating & Feedback Leader / Party* |
+### ⚔️ Kategori: Pengelolaan Mabar & Party
+| # | Command | Deskripsi Singkat |
+|---|---------|-------------------|
+| 1 | [`/konten`](#-1-konten-open-konten-party) | Open konten party utama |
+| 2 | [`/kontenstats`](#-2-kontenstats-statistik-performa-konten) | Statistik performa konten |
+| 3 | [`/rankmabar`](#-3-rankmabar-ranking-dan-statistik-partisipasi) | Ranking & statistik partisipasi |
+| 4 | [`/hideout`](#-4-hideout-update-rute-hideout-core-info) | Update rute hideout + Core Info |
+| 5 | [`/splitloot`](#-5-splitloot-hitung-pembagian-loot) | Hitung pembagian loot party |
+| 6 | [`/nap`](#-6-nap-kelola-guild-kawan-non-aggression-pact) | Kelola guild kawan (NAP) |
+| 7 | [`/regear`](#-7-regear-request-regear-item) | Request Regear item |
 
-## 🛡️ Lisensi & Kontak Jual/Sewa
+### 📊 Kategori: Analisis Guild & PvP Tracker
+| # | Command | Deskripsi Singkat |
+|---|---------|-------------------|
+| 8 | [`/vods`](#-8-vods-submit-vod-gameplay) | 📹 Submit VOD gameplay |
+| 9 | [`/albionprofile`](#-9-albionprofile-cek-profile-karakter--statistik-fame) | Cek profile karakter & statistik Fame |
+| 10 | [`/roa`](#-10-roa-scanner-map-road-of-avalon) | Scanner Map Road of Avalon |
+| 11 | [`/avaraid`](#-11-avaraid-panduan-raid-boss-avalonians) | Panduan Raid Boss Avalonian |
+| 12 | [`/scout`](#-12-scout-kirim-laporan-scout-wilayah) | Kirim laporan scout wilayah |
+| 13 | [`/season`](#-13-season-cek-status-season-dan-reward) | Cek status Season dan reward |
 
-Source code bot ini bersifat **Proprietary**. Bot ini adalah solusi profesional bagi Guild yang ingin meningkatkan manajemen secara otomatis tanpa ribet.
+### 💰 Kategori: Finansial & Banking
+| # | Command | Deskripsi Singkat |
+|---|---------|-------------------|
+| 14 | [`/lelang`](#-14-lelang-sistem-lelang-item) | 🔨 Sistem lelang item |
+| 15 | [`/subsidi`](#-15-subsidi-subsidi-silver-untuk-member) | Subsidi silver untuk member |
+| 16 | [`/balance`](#-16-balance-cek-saluran-keuangan) | Cek saldo Cash, Bank, Deposit/Withdraw |
+| 17 | [`/daily`](#-17-daily-ambil-bonus-harian) | Ambil bonus harian |
+| 18 | [`/invest`](#-18-invest-investasikan-claim-silver) | Investasikan & Claim silver (24 jam) |
+| 19 | [`/donasi`](#-19-donasi-donasikan-cash-ke-bank-guild) | Donasikan cash ke bank guild |
+| 20 | [`/guildbalance`](#-20-guildbalance-lihat-saldo-bank-guild) | Lihat saldo bank guild (Treasury) |
+| 21 | [`/siphon`](#-21-siphon-management-siphoned-energy) | Managemen Siphoned Energy |
+| 22 | [`/rob`](#-22-rob-merampok-user-lain) | Merampok user lain (risiko) |
+| 23 | [`/satpam`](#-23-satpam-sewa-satpam-untuk-perlindungan) | Sewa Satpam untuk perlindungan |
 
-* **Sewa Bulanan:** Instalasi cepat di server Anda tanpa perlu ribet urus VPS.
-* **Beli Source Code:** Hak milik penuh atas seluruh file, bebas modifikasi, dan hosting mandiri.
-* **Versi Gratis (Open Source):** Saat ini versi bot gratisan sedang dalam tahap **pengembangan aktif**. Silakan hubungi kami atau pantau server Discord kami untuk informasi perilisannya.
+### 🤝 Kategori: Koperasi & Simpan Pinjam
+| # | Command | Deskripsi Singkat |
+|---|---------|-------------------|
+| 24 | [`/hutang`](#-24-hutang-sistem-manajemen-hutang-piutang) | Sistem manajemen hutang-piutang |
 
-**Tertarik, butuh info lebih lanjut, atau ingin menunggu versi gratis?**
-🌐 **[Kunjungi Website Resmi: albionindo.my.id/bot/](https://albionindo.my.id/bot/)** 💬 **[Gabung Server Discord MABAR](https://discord.gg/h7UcseapeH)**
-🌐 **[Facebook Group ](https://www.facebook.com/groups/1058594912101668)** 
+### 🎯 Kategori: Minigame & Bounty
+| # | Command | Deskripsi Singkat |
+|---|---------|-------------------|
+| 25 | [`/adventure`](#-25-adventure-petualangan-rpg-dengan-reward) | Petualangan RPG dengan reward |
+| 26 | [`/confess`](#-26-confess-kirim-pesan-rahasia-anonim) | Kirim pesan rahasia anonim |
+| 27 | [`/fishing`](#-27-fishing-minigame-memancing-albion) | Minigame memancing Albion |
+| 28 | [`/trivia`](#-28-trivia-mainkan-trivia-bertema-albion) | Mainkan trivia bertema Albion |
+| 29 | [`/gamble`](#-29-gamble-slot-machine-mini-game) | Slot machine mini-game |
+| 30 | [`/kocok`](#-30-kocok-command-kocok-acak) | Command kocok acak (nama/angka) |
+| 31 | [`/albionmeme`](#-31-albionmeme-meme-albion-dari-reddit) | Meme Albion dari Reddit |
+| 32 | [`/stats`](#-32-stats-statistik-permainan-kamu) | Statistik permainan kamu |
+| 33 | [`/bounty`](#-33-bounty-cek-daftar-buronan-bounty-aktif) | Cek daftar buronan (bounty) aktif |
+
+### ⭐ Kategori: Fitur Special
+| # | Command | Deskripsi Singkat |
+|---|---------|-------------------|
+| 34 | [`/play`](#-34-play-sistem-musik-albion-premium) | 🎵 Sistem Musik Albion (Premium) |
+| 35 | [`/combatfame`](#-35-combatfame-fame-kalkulator) | Fame Kalkulator |
+| 36 | [`/lore`](#-36-lore-sejarah-albion-online) | Sejarah Albion Online |
+| 37 | [`/price`](#-37-price-cek-harga-item-albion) | Cek harga item Albion |
+| 38 | [`/gold`](#-38-gold-cek-harga-gold-albion) | Cek harga Gold Albion |
+| 39 | [`/premium`](#-39-premium-cek-harga-premium-albion) | Cek harga Premium Albion |
+| 40 | [`/resource`](#-40-resource-informasi-bonus-crafting-kota) | Informasi Bonus Crafting Kota |
+| 41 | [`/build`](#-41-build-random-build-albion-simpan-build) | Random Build / Simpan Build |
+| 42 | [`/rute`](#-42-rute-cek-rute-farming-ganking-terbaik) | Cek rute farming/ganking terbaik |
+| 43 | [`/userinfo`](#-43-userinfo-info-detail-user-discord) | Info detail user Discord |
+| 44 | [`/profile`](#-44-profile-info-profile-akun-bot-kamu) | Info Profile akun bot kamu |
+| 45 | [`/randomfact`](#-45-randomfact-fakta-acak-albion-online) | Fakta acak Albion Online |
+| 46 | [`/timezone`](#-46-timezone-cek-waktu-utc-saat-ini) | Cek waktu UTC saat ini |
+| 47 | [`/timer`](#-47-timer-sistem-pengingat-waktu-objective) | Sistem pengingat waktu & objective |
+| 48 | [`/roll`](#-48-roll-roll-dadu-1-100) | Roll dadu 1–100 |
+| 49 | [`/poll`](#-49-poll-membuat-polling-suara) | Membuat polling suara |
+| 50 | [`/saran`](#-50-saran-berikan-saran-fitur-ke-developer) | Berikan saran fitur ke developer |
+| 51 | [`/register`](#-51-register-daftarkan-nickname-albion-ke-bot) | Daftarkan nickname Albion ke bot |
+| 52 | [`/serverinfo`](#-52-serverinfo-informasi-server-discord-ini) | Informasi server Discord ini |
+
+### ⚙️ Kategori: Moderasi & Staff Tools
+| # | Command | Deskripsi Singkat |
+|---|---------|-------------------|
+| 53 | [`/admin economy setbalance`](#-53-admin-economy-setbalance-atur-saldo-userguild) | Atur saldo user/guild (Owner) |
+| 54 | [`/admin economy tax`](#-54-admin-economy-tax-potong-pajak-massal) | Potong pajak massal |
+| 55 | [`/admin economy sweep`](#-55-admin-economy-sweep-bersihkan-saldo-non-member) | Bersihkan saldo non-member |
+| 56 | [`/admin user point`](#-56-admin-user-point-kelola-poin-user) | Kelola poin user |
+| 57 | [`/admin user caller`](#-57-admin-user-caller-kelola-status-caller) | Kelola status caller |
+| 58 | [`/admin blacklist`](#-58-admin-blacklist-tambahhapus-user-blacklist) | Tambah/Hapus user blacklist |
+| 59 | [`/setup-killboard`](#-59-setup-killboard-konfigurasi-channel-killboard) | Konfigurasi channel killboard |
+| 60 | [`/cta`](#-60-cta-lacak-absensi-cta-ping-otomatis) | Lacak absensi CTA & Ping otomatis |
+| 61 | [`/jadwal`](#-61-jadwal-kelola-jadwal-mabar-guild) | Kelola jadwal mabar guild |
+| 62 | [`/giveaway`](#-62-giveaway-mulai-giveaway-silver-otomatis) | Mulai giveaway silver otomatis |
+| 63 | [`/sendregister`](#-63-sendregister-kirim-ulang-panel-registrasi) | Kirim ulang panel registrasi |
+| 64 | [`/chat`](#-64-chat-kirim-pesan-menggunakan-bot) | Kirim pesan menggunakan bot |
+
+</details>
 
 ---
-<p align="center">
-  Dibuat dengan ❤️ oleh <strong>Ibnuuiqbal (JokoSmilch)</strong><br>
-  <i>Inspirasi: Temen Assistance oleh pxndameong & Freezer Cool</i><br>
-  <a href="https://albionindo.my.id">albionindo.my.id</a>
-</p>
+
+## 📖 DOKUMENTASI LENGKAP PER COMMAND
+
+---
+
+### ⚔️ 1. `/konten` — Open Konten Party
+
+<details>
+<summary><b>📖 Klik untuk membuka panduan lengkap command ini</b> 
+  <span style="float: right;">
+    <img src="https://img.shields.io/badge/Level-Member-4E9A06?style=flat-square">
+    <img src="https://img.shields.io/badge/Difficulty-⭐-yellow?style=flat-square">
+  </span>
+</summary>
+
+<br>
+
+**🎯 Fungsi Utama**
+Command utama untuk membuka konten party di Albion Online. Mengirim notifikasi ke channel, auto-assign role, dan timer otomatis.
+
+**📝 Format Penggunaan**
